@@ -1,0 +1,48 @@
+# PDFs y material bajo copyright: viven en Zotero, no aquí
+*.pdf
+!cv/renders/*.pdf
+bibliography/pdfs/
+
+# Datos crudos y pesados
+data/raw/
+*.csv
+*.xlsx
+*.sav
+*.dta
+*.parquet
+*.sqlite
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Sistema y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+~$*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Secretos
+.env
+*.key

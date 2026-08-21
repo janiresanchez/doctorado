@@ -1,0 +1,118 @@
+# FUENTE ÚNICA DE VERDAD DEL CV.
+# Todo lo que hay en cv/renders/ se genera desde aquí. No edites los renders.
+# Formato de fechas: YYYY-MM (o YYYY si solo se conoce el año).
+
+personal:
+  name: Janire Sánchez
+  position:
+  affiliation:
+  department:
+  email:
+  orcid:
+  website:
+  scholar:
+  github:
+  linkedin:
+
+research_interests: []
+  # - Texto corto, alineado con context/research-lines.md
+
+education:
+  - degree:
+    field:
+    institution:
+    country:
+    start:
+    end:
+    thesis:
+    supervisors: []
+    notes:
+
+positions: []
+  # - title:
+  #   institution:
+  #   start:
+  #   end:
+  #   description:
+
+publications:
+  journal_articles: []
+    # - authors: []
+    #   year:
+    #   title:
+    #   journal:
+    #   volume:
+    #   pages:
+    #   doi:
+    #   citekey:        # enlaza con bibliography/library.bib
+    #   quartile:
+    #   open_access:
+    #   status: published   # published / in press / under review
+  book_chapters: []
+  conference_papers: []
+  preprints: []
+  reports: []
+
+presentations: []
+  # - title:
+  #   event:
+  #   type: oral        # oral / poster / invited / keynote
+  #   place:
+  #   date:
+
+grants: []
+  # - name:
+  #   funder:
+  #   role:             # PI / co-I / team member / holder
+  #   amount:
+  #   start:
+  #   end:
+
+awards: []
+  # - name:
+  #   awarding_body:
+  #   year:
+
+teaching: []
+  # - course:
+  #   level:            # undergraduate / master / doctoral
+  #   institution:
+  #   hours:
+  #   years: []
+  #   role:
+
+supervision: []
+  # - student:
+  #   level:
+  #   title:
+  #   year:
+  #   role:             # supervisor / co-supervisor
+
+service: []
+  # - role:             # reviewer / editorial board / committee
+  #   entity:
+  #   period:
+
+research_stays: []
+  # - institution:
+  #   host:
+  #   country:
+  #   start:
+  #   end:
+  #   funding:
+
+skills:
+  technical: []
+  software: []
+  methods: []
+
+languages: []
+  # - language:
+  #   level:            # CEFR: A1-C2 / native
+
+references: []
+  # - name:
+  #   position:
+  #   institution:
+  #   email:
+  #   relationship:
