@@ -83,6 +83,25 @@ métodos. Son también las personas con quienes compartiría día a día.
 
 ---
 
+## Rubén Díaz Sierra ⭐ VÍA DE ENTRADA
+
+- **Afiliación:** UNED.
+- **Cómo nos conocemos:** coincidimos en un curso impartido por Fundación
+  Renovables en colaboración con la UNED. Le comenté mi interés por hacer el
+  doctorado y mi artículo publicado.
+- **Qué ha hecho por mí:** habló de mí a María José Bautista-Cerro. **Ella sabe
+  de mi existencia por él.**
+- **Por qué importa:** es la referencia que abre el primer email. Un mensaje que
+  empieza "Rubén Díaz Sierra me sugirió escribirle" se lee de forma
+  completamente distinta a uno que llega en frío.
+- **Estado del contacto:** relación establecida.
+- **Siguiente paso:** avisarle de que voy a escribir a Bautista-Cerro, por
+  cortesía y para que pueda respaldarlo si surge.
+
+<!-- PENDIENTE: su departamento y línea de investigación en la UNED. -->
+
+---
+
 ## Fuera del grupo
 
 ### Martínez-Domínguez y Oronoz

@@ -26,8 +26,8 @@ education:
     field: Gestión del Turismo Sostenible y Ecológico
     institution: Universidad Politécnica de Madrid (UPM)
     country: España
-    start:
-    end:
+    start: 2021
+    end: 2023
     thesis: >-
       Impacto del turismo sobre el mono capuchino de cara blanca
       (Cebus imitator) en el Parque Nacional de Tortuguero, con propuesta de
@@ -38,8 +38,8 @@ education:
     field: Ciencias Ambientales
     institution: Universidad Autónoma de Madrid (UAM)
     country: España
-    start:
-    end:
+    start: 2016
+    end: 2021
     thesis:
     supervisors: []
     notes:

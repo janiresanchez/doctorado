@@ -9,13 +9,18 @@
 - **Programa objetivo:** doctorado en la UNED, vinculado a la Cátedra UNESCO EADS.
 - **Inicio deseado:** septiembre de 2026 *(sujeto a plazos de admisión, ver más abajo)*
 - **Correo:** neojanixxx17@gmail.com
+- **Vía de entrada al grupo:** **Rubén Díaz Sierra** (UNED). Coincidieron en un
+  curso impartido por Fundación Renovables en colaboración con la UNED. Janire
+  le comentó su interés por el doctorado y su artículo publicado; él habló de
+  ella a Bautista-Cerro.
 - **ORCID:** <!-- pendiente -->
 
 ## Formación
 
-- **Grado en Ciencias Ambientales** — Universidad Autónoma de Madrid (UAM)
+- **Grado en Ciencias Ambientales** — Universidad Autónoma de Madrid (UAM),
+  2016-2021.
 - **Máster en Gestión del Turismo Sostenible y Ecológico** — Universidad
-  Politécnica de Madrid (UPM)
+  Politécnica de Madrid (UPM), 2021-2023.
   - TFM sobre el impacto del turismo en una especie de primate, con una
     propuesta de educación ambiental asociada.
   - **Derivó en un primer artículo científico publicado.** <!-- Falta la
@@ -31,6 +36,36 @@
     educativos.
   - **Hasta ahora solo en la Comunidad de Madrid.** Quiere extenderlos a la
     Segovia rural y La Rioja.
+
+## Intento previo de doctorado
+
+Inició un programa de doctorado que **no completó**. Se cerró con la
+publicación de un único artículo (`sanchezBehavioural2026`). Motivo: **no hubo
+conexión ni con el tutor ni con la temática.**
+
+Cómo tratarlo:
+
+- **No es un fracaso académico.** De ahí salió una publicación indexada en
+  abierto y como primera autora. Muchos doctorandos de segundo año no tienen eso.
+- **Es la razón de fondo de todo este proceso.** Explica por qué ahora quiere
+  asegurar el encaje temático y personal *antes* de matricularse, en vez de
+  después. Es un argumento a favor, no en contra, siempre que se cuente así.
+- **No va en el primer email.** Sí conviene tenerlo preparado para la reunión:
+  saldrá solo en cuanto se hable del artículo.
+
+## Talleres de Fundación Renovables (acceso al campo)
+
+17 talleres en el curso 2025/2026, primero del programa, en la Comunidad de
+Madrid. Duración aproximada: **1 hora y media**. Son talleres distintos entre sí.
+
+| Etapa | Contenido | Formato | Utilidad para la tesis |
+|---|---|---|---|
+| Primaria | Energías renovables y ahorro de recursos | Juego | **Baja.** Valoración de la propia Janire: "no tienen tanta chicha". |
+| Secundaria, FP y Bachillerato | **Crisis climática desde la perspectiva de transición justa** + un taller sobre **desinformación** | Taller, 1,5 h | **Alta.** Es el material aprovechable. |
+
+**Consecuencia:** la población de la tesis está en Secundaria, FP y
+Bachillerato. Primaria y el CRA quedan fuera del diseño, aunque el CRA siga
+siendo parte de su biografía.
 
 ## Activo clave para la investigación
 

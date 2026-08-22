@@ -5,6 +5,26 @@
 > elija una, pasa a ser `L1` y las demás quedan como líneas secundarias o
 > descartadas, con el motivo anotado.
 
+## ⚡ Decisión tomada (2026-08-22)
+
+**El arraigo rural es motivación personal, no objeto de estudio.** El objeto es
+la **educación ambiental y ecosocial**, que además se complementa con su trabajo
+como responsable de educación y sensibilización.
+
+Lo rural entra como **contexto y como objetivo profesional** (llevar los talleres
+de Fundación Renovables al medio rural), no como constructo a medir.
+
+**Consecuencias directas:**
+
+- **C-B queda descartada** como línea principal. Convertía el arraigo en objeto
+  de estudio y exigía un campo etnográfico intensivo incompatible con jornada
+  completa.
+- **C-A y C-C pierden fuerza**: ambas se apoyaban en el CRA, y los talleres de
+  Primaria son de formato juego y —en su propia valoración— sin recorrido para
+  una tesis.
+- **C-D se consolida como dirección principal**, con lo rural como una de las
+  variables de contraste y no como el corazón del argumento.
+
 ## Territorio común
 
 Educación ambiental y **educación ecosocial** aplicadas al **medio rural**
@@ -43,7 +63,7 @@ ante la directora porque continúa lo que ya hacen.
 Depende de conseguir acceso a suficientes centros rurales, y de que
 Fundación Renovables respalde la extensión territorial de los talleres.
 
-**Estado:** candidata fuerte
+**Estado:** ⬇️ debilitada — depende de Primaria/CRA, que queda fuera del diseño
 
 ---
 
@@ -70,7 +90,9 @@ Es la más "ecosocial" en sentido fuerte: no solo escolar, sino comunitaria.
 La más ambiciosa en alcance y la más intensiva en tiempo de campo — problemática
 si el doctorado convive con jornada completa.
 
-**Estado:** candidata
+**Estado:** ❌ descartada como línea principal — convierte el arraigo en objeto
+de estudio, y el arraigo es motivación. Conservar la metodología OASIS y la
+mirada campo-ciudad como recursos, no como eje.
 
 ---
 
@@ -97,7 +119,8 @@ editorial de la Cátedra.
 Sin una pregunta explicativa detrás puede quedarse en producto profesional y
 no en investigación doctoral.
 
-**Estado:** candidata — **complementaria de C-A** (A aporta los datos, C el producto)
+**Estado:** ⬇️ debilitada como línea autónoma. Sobrevive como **producto
+derivado**: el material didáctico validado que la tesis puede entregar al final.
 
 ---
 
@@ -152,7 +175,41 @@ agenda con financiación abundante.
 Se aleja de la escuela rural y del CRA, que es donde está su vínculo biográfico.
 Hay que decidir si el arraigo es objeto de estudio o solo motivación personal.
 
-**Estado:** candidata — **la más alineada con su acceso real al campo**
+**Estado:** ✅ **LÍNEA PRINCIPAL**
+
+### Concreción a partir del contenido real de los talleres
+
+Los talleres de Secundaria, FP y Bachillerato tratan **la crisis climática desde
+la perspectiva de la transición justa**, más un taller sobre **desinformación**.
+Eso no es un detalle logístico: define el constructo.
+
+- **"Transición justa" es el puente ecosocial.** No es solo clima: es clima más
+  equidad, empleo y territorio. Es exactamente lo que distingue la educación
+  *ecosocial* de la educación ambiental clásica, y es el vocabulario del grupo.
+- **La desinformación climática es un ángulo propio y poco explorado.** El
+  CAFTÁN mide conocimientos, actitudes y comportamientos, pero no capacidad de
+  discriminar información climática falsa. Ahí hay un bloque de ítems nuevo,
+  justificable, publicable y actual.
+
+**Formulación tentativa de la pregunta**
+
+¿Qué nivel de alfabetización ecosocial —incluida la capacidad de detectar
+desinformación climática— presenta el alumnado de Secundaria, FP y Bachillerato,
+y en qué medida se explica por el tipo de currículo (ambiental frente a no
+ambiental) y por el contexto territorial (rural frente a urbano)?
+
+**Diseño**
+
+Factorial 2×2: currículo (ambiental / no ambiental) × territorio (rural / urbano).
+Cuestionario CAFTÁN adaptado, con bloque propio de desinformación, más grupos de
+discusión o entrevistas para el porqué.
+
+**Realismo del campo**
+
+Los talleres son de sesión única de 1,5 h. Eso permite un diseño **pre-post**
+en la misma sesión, pero **no** medir efectos duraderos. Si se quiere hablar de
+impacto sostenido hace falta una medición diferida o repetir en el centro.
+Conviene decirlo antes de que lo diga el tribunal.
 
 ---
 
@@ -190,8 +247,13 @@ y pasa a ser rediseño completo del instrumento.
    la FP es su terreno profesional.
 3. **Territorio del campo:** Segovia, La Rioja o ambos, y con qué caso urbano
    de contraste.
-4. **¿El arraigo es objeto de estudio o motivación personal?** Es la pregunta
-   que separa C-B de C-D. Ambas son defendibles; no son la misma tesis.
+4. ~~¿El arraigo es objeto de estudio o motivación personal?~~ **Resuelto:
+   motivación.**
+5. **¿Cuánto peso tiene la desinformación climática?** ¿Un bloque de ítems
+   dentro de la alfabetización ecosocial, o el eje de la tesis? Es la conversación
+   que hay que tener con la directora.
+6. **¿Pre-post en sesión única o medición diferida?** Determina si se puede
+   hablar de impacto o solo de estado.
 
 ## Restricción de escala (dato duro)
 
