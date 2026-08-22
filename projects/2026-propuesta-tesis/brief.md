@@ -43,17 +43,33 @@ Idioma: **español** (excepción a la regla general del repositorio).
 | — | Envío de la propuesta a la directora |
 | septiembre 2026 | Inicio deseado (posiblemente no realista) |
 
+## Estado del contacto con la directora
+
+**Aún no ha habido contacto directo.** Bautista-Cerro sabe de la existencia de
+Janire porque otro profesor de la UNED le habló de ella.
+<!-- PENDIENTE: quién es ese profesor. Es una vía de entrada y debe citarse en
+     el primer email. -->
+
+**Contacto previsto: la semana del 24 de agosto de 2026.**
+
+Esto define el registro del primer mensaje: no es una propuesta cerrada que se
+defiende, es una **primera conversación**. El objetivo no es que acepte un tema,
+sino que acepte una reunión. Llegar con cuatro direcciones abiertas y bien
+fundamentadas es mejor que llegar con una cerrada.
+
 ## Estado actual
 
-Tres direcciones candidatas sobre la mesa (C-A, C-B, C-C en
-`context/research-lines.md`). Sin elegir.
+Cuatro direcciones candidatas en `context/research-lines.md`: C-A (escuela
+rural), C-B (comunitaria y arraigo), C-C (modelo para escuela rural) y C-D
+(FP de energías renovables). Sin elegir, **y no hace falta elegir antes de
+hablar con ella.**
 
 ## Bloqueos
 
-1. **Etapa educativa sin decidir.** Es el bloqueo principal: CRA
-   (Infantil-Primaria), 4º ESO (lo que mide el CAFTAN) y FP agraria/forestal
-   son tres poblaciones distintas e incompatibles. Nada más puede cerrarse
-   hasta resolver esto.
-2. **Plazo de admisión sin verificar.**
-3. **Respaldo de Fundación Renovables** a la extensión de talleres a Segovia y
-   La Rioja: sin ello no hay acceso al campo.
+1. **Etapa educativa sin decidir.** Sus talleres llegan a Primaria, Secundaria,
+   FP y Bachillerato, así que puede elegir — pero elegir es obligatorio, porque
+   el instrumento y el marco cambian por completo. Es tema para la reunión.
+2. **Plazo de admisión sin verificar.** Debe preguntarse en el primer contacto.
+3. **Respaldo de Fundación Renovables.** Decisión tomada: se habla con ellos
+   **después** del grupo de investigación. Sensato, pero conviene no prometer a
+   la directora un acceso al campo que la organización aún no ha confirmado.

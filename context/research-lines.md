@@ -112,16 +112,68 @@ que un cuestionario cerrado capta mal.
 Esa combinación **no existe todavía en el catálogo metodológico de la Cátedra**.
 Es el sello diferencial de la propuesta.
 
+---
+
+## C-D — Alfabetización ecosocial en la FP: ¿forma el currículo verde una conciencia verde?
+
+**Pregunta de investigación** *(por afinar)*
+¿Difiere el nivel de alfabetización ecosocial del alumnado de FP de energías
+renovables y eficiencia energética respecto al de ciclos formativos sin
+contenido ambiental? ¿Y qué papel juega el territorio —rural o urbano— frente
+al papel del propio currículo?
+
+**De dónde sale**
+De su trabajo. Janire es responsable de educación en Fundación Renovables:
+el ámbito de las renovables y la eficiencia energética es donde ya tiene
+contactos, materiales y legitimidad profesional.
+
+> ⚠️ **Corrección de rumbo.** En la sesión previa se habló de "FP agraria y
+> forestal". Eso fue una propuesta del asistente, no un interés de Janire. Su
+> interés real es la **FP de energías renovables y eficiencia energética**,
+> abierta además a ciclos **sin** relación ambiental para tener una muestra más
+> diversa en conciencia ecológica.
+
+**Fortaleza del diseño**
+El grupo de contraste está integrado en la propia pregunta: FP ambiental frente
+a FP no ambiental. Eso convierte una descripción en una comparación, que es lo
+que da potencia explicativa. Y si además se cruza con rural/urbano, se obtiene
+un diseño 2×2 que permite separar el efecto del currículo del efecto del
+territorio.
+
+**Encaje con el instrumento**
+El CAFTÁN está diseñado para 4º de ESO (15-16 años). El alumnado de FP de grado
+medio ronda esa edad, así que la adaptación sería menor que hacia Primaria.
+
+**Ventaja añadida**
+Conecta la tesis con la transición energética, que es tanto su trabajo como una
+agenda con financiación abundante.
+
+**Riesgo**
+Se aleja de la escuela rural y del CRA, que es donde está su vínculo biográfico.
+Hay que decidir si el arraigo es objeto de estudio o solo motivación personal.
+
+**Estado:** candidata — **la más alineada con su acceso real al campo**
+
+---
+
 ## Instrumento
 
-Apareció el **CAFTAN** como cuestionario candidato a adaptar. Diseñado para
-4º de ESO en contexto urbano. Adaptarlo exigiría:
+**CAFTÁN** — Cuestionario de Alfabetización Ambiental y Crisis Ecosocial.
+Martínez-Aznar, Calvo Sevillano y Sánchez-León (2022), *Revista de Investigación
+en Educación*, 20(2), 257-273. DOI 10.35869/reined.v20i2.4229.
+35 preguntas + 3 subpreguntas abiertas. Mide conocimientos, actitudes y
+comportamientos. Diseñado para **4º de ESO**.
+Ver nota completa en `bibliography/notes/martinezaznarAlfabetizacion2022.md`.
+
+Adaptarlo exige:
 
 1. Prueba piloto obligatoria en la nueva población.
 2. Juicio de expertos para los ítems nuevos sobre arraigo e identidad
    territorial, que el original no contempla.
 
-<!-- PENDIENTE: referencia completa del CAFTAN (autores, año, DOI). -->
+**El coste de la adaptación depende de la etapa elegida:** hacia FP de grado
+medio es menor (edad similar); hacia un CRA de Primaria deja de ser adaptación
+y pasa a ser rediseño completo del instrumento.
 
 ## Fuera de alcance
 
@@ -132,8 +184,24 @@ Apareció el **CAFTAN** como cuestionario candidato a adaptar. Diseñado para
 ## Decisiones pendientes
 
 1. **Elegir dirección:** C-A, C-B, C-C o combinación.
-2. **Etapa educativa.** Sin resolver. Determina todo lo demás: un CRA es
-   Infantil-Primaria; el CAFTAN es de 4º ESO; también se mencionó FP agraria y
-   forestal. Son tres poblaciones incompatibles entre sí.
+2. **Etapa educativa.** Sin resolver, y es el bloqueo principal. Sus talleres
+   llegan hoy a Primaria, Secundaria, FP y Bachillerato — puede elegir, pero no
+   puede abarcarlas todas. Un CRA es Infantil-Primaria; el CAFTÁN es de 4º ESO;
+   la FP es su terreno profesional.
 3. **Territorio del campo:** Segovia, La Rioja o ambos, y con qué caso urbano
    de contraste.
+4. **¿El arraigo es objeto de estudio o motivación personal?** Es la pregunta
+   que separa C-B de C-D. Ambas son defendibles; no son la misma tesis.
+
+## Restricción de escala (dato duro)
+
+**17 talleres en el curso 2025/2026**, el primero del programa. Con esa cifra:
+
+- No hay muestra para un cuestionario con potencia estadística **este** curso.
+- Sí la hay para una **prueba piloto** del instrumento, que es justamente la
+  primera fase del trabajo de campo.
+- Un diseño realista acumula muestra a lo largo de dos o tres cursos, o combina
+  una muestra pequeña propia con una difusión más amplia del cuestionario.
+
+Este dato debe estar en la propuesta a la directora: demuestra que el plan de
+campo está pensado, no improvisado.

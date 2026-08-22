@@ -4,8 +4,8 @@
 
 personal:
   name: Janire Sánchez
-  position:
-  affiliation:
+  position: Responsable de Educación y Sensibilización
+  affiliation: Fundación Renovables
   department:
   email:
   orcid:
@@ -14,40 +14,78 @@ personal:
   github:
   linkedin:
 
-research_interests: []
-  # - Texto corto, alineado con context/research-lines.md
+research_interests:
+  - Educación ambiental y educación ecosocial
+  - Alfabetización ecosocial en el medio rural
+  - Escuela rural, arraigo territorial y despoblación
+  - Sostenibilización del currículo
+  - Transición energética y educación
 
 education:
-  - degree:
-    field:
-    institution:
-    country:
+  - degree: Máster
+    field: Gestión del Turismo Sostenible y Ecológico
+    institution: Universidad Politécnica de Madrid (UPM)
+    country: España
+    start:
+    end:
+    thesis: >-
+      Impacto del turismo sobre el mono capuchino de cara blanca
+      (Cebus imitator) en el Parque Nacional de Tortuguero, con propuesta de
+      educación ambiental. Derivó en la publicación sanchezBehavioural2026.
+    supervisors: []
+    notes:
+  - degree: Grado
+    field: Ciencias Ambientales
+    institution: Universidad Autónoma de Madrid (UAM)
+    country: España
     start:
     end:
     thesis:
     supervisors: []
     notes:
 
-positions: []
-  # - title:
-  #   institution:
-  #   start:
-  #   end:
-  #   description:
+positions:
+  - title: Responsable de Educación y Sensibilización
+    institution: Fundación Renovables
+    start:
+    end: presente
+    description: >-
+      Divulgación mediante vídeo y otros recursos, e impartición de talleres en
+      centros educativos (Primaria, Secundaria, FP y Bachillerato).
+      Aproximadamente 17 talleres en el primer curso del programa (2025/2026),
+      en la Comunidad de Madrid.
+  - title: Educadora ambiental
+    institution: CEA Caserío de Henares (Comunidad de Madrid)
+    start:
+    end:
+    description:
+  - title: Educadora ambiental
+    institution: CEA Polvoranca (Comunidad de Madrid)
+    start:
+    end:
+    description:
 
 publications:
-  journal_articles: []
-    # - authors: []
-    #   year:
-    #   title:
-    #   journal:
-    #   volume:
-    #   pages:
-    #   doi:
-    #   citekey:        # enlaza con bibliography/library.bib
-    #   quartile:
-    #   open_access:
-    #   status: published   # published / in press / under review
+  journal_articles:
+    - authors: ["Sánchez, J.", "Gil, Á. F.", "Calderón-Guerrero, C."]
+      year: 2026
+      title: >-
+        Behavioural Patterns and Responses of White-Faced Capuchins
+        (Cebus imitator) Under Contrasting Ecotourism Pressures in Tortuguero
+        National Park: Preliminary Findings and Management Implications
+      journal: Diversity
+      volume: 18
+      issue: 3
+      pages: 169
+      doi: 10.3390/d18030169
+      citekey: sanchezBehavioural2026
+      quartile:          # PENDIENTE de verificar en JCR/SJR
+      open_access: true
+      license: CC BY
+      published: 2026-03-09
+      first_author: true
+      status: published
+      notes: Deriva del TFM del Máster en Gestión del Turismo Sostenible (UPM).
   book_chapters: []
   conference_papers: []
   preprints: []
