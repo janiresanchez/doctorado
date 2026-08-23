@@ -12,7 +12,7 @@ Cuando una se lee: pasa a Zotero, crea su nota en `notes/` y bórrala de aquí.
 
 | 2026-08 | Proyecto **PRAD-ODS** — alfabetización ecosocial en formación inicial del profesorado de Secundaria. Murga-Menoyo y Bautista-Cerro. | Línea insignia del grupo. Mi gap se define por contraste con esto. | C-A | **Alta** |
 | 2026-08 | **Guía PRADO** — sostenibilización del currículo de Secundaria. Cátedra UNESCO EADS. | Modelo de referencia para el producto de C-C. | C-C | **Alta** |
-| 2026-08 | *Voces para una alfabetización ecosocial* — obra colectiva, 39 conceptos. | Marco conceptual y vocabulario del grupo. Base del glosario. | Todas | **Alta** |
+| 2026-08 | *Voces para una alfabetización ecosocial* (UNED, 2022). ISBN 978-84-362-7420-2. **DOI 10.5944/VAE28060** — acceso abierto en e-Spacio UNED. Dirigido a profesorado de Secundaria y Bachillerato. | Marco conceptual y vocabulario del grupo. Base del glosario. **Y confirma que su mirada ya está en mi etapa educativa.** | Todas | **Alta** |
 | 2026-08 | Bautista-Cerro y Díaz González (2025). *Educación ambiental en tiempos de emergencia planetaria*. | Última publicación de la potencial directora. Lectura obligada antes de escribirle. | Todas | **Alta** |
 | 2026-08 | Martínez-Domínguez y Oronoz (2026). "Educación para el arraigo: identidad, entorno natural y desarrollo sostenible frente al fenómeno de la España vaciada". *Teoría de la Educación. Revista Interuniversitaria*. | Estado de la cuestión del cruce educación + despoblación. | C-B | **Alta** |
 | 2026-08 | Tesis de Cristina Iglesias Barco — abandono escolar, enfoque etnográfico. | Precedente metodológico cualitativo dentro del grupo. | C-B | Media |

@@ -79,7 +79,9 @@ publications:
       pages: 169
       doi: 10.3390/d18030169
       citekey: sanchezBehavioural2026
-      quartile:          # PENDIENTE de verificar en JCR/SJR
+      impact_factor: 2.3        # JCR 2025, publicado junio 2026
+      quartile: Q2              # JCR, Biodiversity Conservation (35/77)
+      quartile_citescore: Q1    # CiteScore, Nature and Landscape Conservation
       open_access: true
       license: CC BY
       published: 2026-03-09

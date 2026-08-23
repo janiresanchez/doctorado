@@ -63,6 +63,28 @@ Madrid. Duración aproximada: **1 hora y media**. Son talleres distintos entre s
 | Primaria | Energías renovables y ahorro de recursos | Juego | **Baja.** Valoración de la propia Janire: "no tienen tanta chicha". |
 | Secundaria, FP y Bachillerato | **Crisis climática desde la perspectiva de transición justa** + un taller sobre **desinformación** | Taller, 1,5 h | **Alta.** Es el material aprovechable. |
 
+### Contenido del taller de Secundaria/FP/Bachillerato
+
+Según su publicación en LinkedIn sobre la sesión en el IES San Isidoro de
+Sevilla (Madrid), impartida con **Gonzalo Gómez Álvarez** y en colaboración con
+**FridaysForFuture Madrid**:
+
+- Base científica sólida sobre cambio climático.
+- **Perspectiva social:** afectación desigual a distintos grupos; **pobreza
+  energética**.
+- **Dinámica de verificación diseñada por ellos:** se plantean titulares y
+  afirmaciones basadas en casos reales y el alumnado los analiza apoyándose en un
+  dosier informativo, respondiendo a cuatro preguntas — ¿Es un bulo? ¿Necesita
+  contexto? ¿Está basada en datos sólidos? ¿Son fiables las fuentes?
+- Objetivo declarado: rastrear la fuente original, identificar información
+  sesgada, reconocer qué organismos científicos son rigurosos y contrastar.
+
+**Esto no es un taller: es un instrumento a medio construir.** La dinámica de
+verificación ya tiene ítems (titulares reales), criterios (las cuatro preguntas)
+y una tarea observable. Convertirla en medida validada de alfabetización frente
+a la desinformación climática es un paso corto, y es exactamente lo que el
+CAFTÁN no cubre.
+
 **Consecuencia:** la población de la tesis está en Secundaria, FP y
 Bachillerato. Primaria y el CRA quedan fuera del diseño, aunque el CRA siga
 siendo parte de su biografía.
