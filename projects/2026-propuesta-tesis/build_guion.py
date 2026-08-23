@@ -26,17 +26,19 @@ def runs(text, bold=False, italic=False, color=None, size=None):
 
 def p(text="", style=None, space_before=0, space_after=120, italic=False,
       color=None, size=None, border=False, indent=0, bullet=False):
+    # El esquema OOXML fija el orden dentro de w:pPr:
+    # pStyle, numPr, pBdr, spacing, ind, outlineLvl. Word rechaza otro orden.
     ppr = "<w:pPr>"
     if style:
         ppr += f'<w:pStyle w:val="{style}"/>'
     if bullet:
         ppr += '<w:numPr><w:ilvl w:val="0"/><w:numId w:val="1"/></w:numPr>'
-    if indent:
-        ppr += f'<w:ind w:left="{indent}"/>'
-    ppr += f'<w:spacing w:before="{space_before}" w:after="{space_after}" w:line="264" w:lineRule="auto"/>'
     if border:
         ppr += ('<w:pBdr><w:bottom w:val="single" w:sz="4" w:space="1" '
                 'w:color="BFC9C2"/></w:pBdr>')
+    ppr += f'<w:spacing w:before="{space_before}" w:after="{space_after}" w:line="264" w:lineRule="auto"/>'
+    if indent:
+        ppr += f'<w:ind w:left="{indent}"/>'
     ppr += "</w:pPr>"
     return f"<w:p>{ppr}{runs(text, italic=italic, color=color, size=size)}</w:p>"
 
@@ -160,7 +162,7 @@ A(p("Agradecer a Rubén Díaz Sierra.", bullet=True))
 A(p("Actualizar el brief del proyecto en el repositorio.", bullet=True))
 
 document = f'''<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main">
+<w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:xml="http://www.w3.org/XML/1998/namespace">
 <w:body>{"".join(body)}
 <w:sectPr><w:pgSz w:w="11906" w:h="16838"/>
 <w:pgMar w:top="1418" w:right="1418" w:bottom="1418" w:left="1418" w:header="708" w:footer="708" w:gutter="0"/>
@@ -185,9 +187,8 @@ styles = '''<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <w:color w:val="2C6A4C"/><w:sz w:val="24"/><w:szCs w:val="24"/></w:rPr></w:style>
 <w:style w:type="paragraph" w:styleId="Heading1">
 <w:name w:val="heading 1"/><w:basedOn w:val="Normal"/><w:qFormat/>
-<w:pPr><w:outlineLvl w:val="0"/>
-<w:pBdr><w:bottom w:val="single" w:sz="6" w:space="4" w:color="2C6A4C"/></w:pBdr>
-</w:pPr>
+<w:pPr><w:pBdr><w:bottom w:val="single" w:sz="6" w:space="4" w:color="2C6A4C"/></w:pBdr>
+<w:outlineLvl w:val="0"/></w:pPr>
 <w:rPr><w:rFonts w:ascii="Cambria" w:hAnsi="Cambria"/><w:b/>
 <w:color w:val="14201A"/><w:sz w:val="28"/><w:szCs w:val="28"/></w:rPr></w:style>
 <w:style w:type="paragraph" w:styleId="Heading2">
@@ -196,8 +197,8 @@ styles = '''<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <w:rPr><w:b/><w:color w:val="14201A"/><w:sz w:val="23"/><w:szCs w:val="23"/></w:rPr></w:style>
 <w:style w:type="paragraph" w:styleId="Quote">
 <w:name w:val="Quote"/><w:basedOn w:val="Normal"/><w:qFormat/>
-<w:pPr><w:ind w:left="284"/>
-<w:pBdr><w:left w:val="single" w:sz="18" w:space="8" w:color="2C6A4C"/></w:pBdr></w:pPr>
+<w:pPr><w:pBdr><w:left w:val="single" w:sz="18" w:space="8" w:color="2C6A4C"/></w:pBdr>
+<w:ind w:left="284"/></w:pPr>
 <w:rPr><w:rFonts w:ascii="Cambria" w:hAnsi="Cambria"/><w:i/>
 <w:color w:val="14201A"/><w:sz w:val="26"/><w:szCs w:val="26"/></w:rPr></w:style>
 <w:style w:type="numbering" w:styleId="NoList"><w:name w:val="No List"/></w:style>
@@ -206,6 +207,7 @@ styles = '''<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 numbering = '''<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <w:numbering xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main">
 <w:abstractNum w:abstractNumId="0">
+<w:nsid w:val="1A2B3C4D"/><w:multiLevelType w:val="hybridMultilevel"/>
 <w:lvl w:ilvl="0"><w:start w:val="1"/><w:numFmt w:val="bullet"/>
 <w:lvlText w:val="&#8226;"/><w:lvlJc w:val="left"/>
 <w:pPr><w:ind w:left="426" w:hanging="284"/></w:pPr>
@@ -215,6 +217,26 @@ numbering = '''<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <w:num w:numId="1"><w:abstractNumId w:val="0"/></w:num>
 </w:numbering>'''
 
+settings = '''<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:settings xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main">
+<w:zoom w:percent="100"/><w:defaultTabStop w:val="708"/>
+<w:themeFontLang w:val="es-ES"/>
+</w:settings>'''
+
+core = '''<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cp:coreProperties xmlns:cp="http://schemas.openxmlformats.org/package/2006/metadata/core-properties" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:title>Guion de reunion - Catedra UNESCO EADS UNED</dc:title>
+<dc:creator>Janire Sanchez</dc:creator>
+<cp:lastModifiedBy>Janire Sanchez</cp:lastModifiedBy>
+<dcterms:created xsi:type="dcterms:W3CDTF">2026-08-23T00:00:00Z</dcterms:created>
+<dcterms:modified xsi:type="dcterms:W3CDTF">2026-08-23T00:00:00Z</dcterms:modified>
+</cp:coreProperties>'''
+
+app = '''<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Properties xmlns="http://schemas.openxmlformats.org/officeDocument/2006/extended-properties" xmlns:vt="http://schemas.openxmlformats.org/officeDocument/2006/docPropsVTypes">
+<Application>Microsoft Office Word</Application>
+</Properties>'''
+
 content_types = '''<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Types xmlns="http://schemas.openxmlformats.org/package/2006/content-types">
 <Default Extension="rels" ContentType="application/vnd.openxmlformats-package.relationships+xml"/>
@@ -222,17 +244,23 @@ content_types = '''<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Override PartName="/word/document.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml"/>
 <Override PartName="/word/styles.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.styles+xml"/>
 <Override PartName="/word/numbering.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.numbering+xml"/>
+<Override PartName="/word/settings.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.settings+xml"/>
+<Override PartName="/docProps/core.xml" ContentType="application/vnd.openxmlformats-package.core-properties+xml"/>
+<Override PartName="/docProps/app.xml" ContentType="application/vnd.openxmlformats-officedocument.extended-properties+xml"/>
 </Types>'''
 
 rels = '''<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
 <Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument" Target="word/document.xml"/>
+<Relationship Id="rId2" Type="http://schemas.openxmlformats.org/package/2006/relationships/metadata/core-properties" Target="docProps/core.xml"/>
+<Relationship Id="rId3" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/extended-properties" Target="docProps/app.xml"/>
 </Relationships>'''
 
 doc_rels = '''<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
 <Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/styles" Target="styles.xml"/>
 <Relationship Id="rId2" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/numbering" Target="numbering.xml"/>
+<Relationship Id="rId3" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/settings" Target="settings.xml"/>
 </Relationships>'''
 
 os.makedirs(os.path.dirname(OUT), exist_ok=True)
@@ -242,6 +270,9 @@ with zipfile.ZipFile(OUT, "w", zipfile.ZIP_DEFLATED) as z:
     z.writestr("word/document.xml", document)
     z.writestr("word/styles.xml", styles)
     z.writestr("word/numbering.xml", numbering)
+    z.writestr("word/settings.xml", settings)
+    z.writestr("docProps/core.xml", core)
+    z.writestr("docProps/app.xml", app)
     z.writestr("word/_rels/document.xml.rels", doc_rels)
 
 print("escrito:", OUT, os.path.getsize(OUT), "bytes")
