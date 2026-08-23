@@ -11,10 +11,10 @@ rating: 5
 **Referencia:** Martínez-Aznar, J., Calvo Sevillano, G. y Sánchez-León, N. (2022).
 *Revista de Investigación en Educación*, 20(2), 257-273. Universidad de Zaragoza.
 **DOI:** 10.35869/reined.v20i2.4229
-**Acceso:** abierto (CC BY-NC-ND). PDF en `~/Desktop/PROYECTOS/Doctorado/Bibliografía/`
+**Acceso:** abierto (CC BY-NC-ND). PDF local en `bibliography/pdfs/Dialnet-AlfabetizacionAmbientalYCrisisEcosocial-8673585.pdf` (fuera de control de versiones)
 
 > **Este es el CAFTÁN.** La referencia que figuraba como "pendiente de localizar"
-> ya estaba descargada en el escritorio.
+> ya estaba descargada en el propio equipo.
 
 ## Claim principal
 

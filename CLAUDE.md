@@ -38,7 +38,9 @@ No empieces a producir texto sin haber leído esos tres.
    `bibliography/notes/`.
 4. **Un proyecto = una carpeta** en `projects/`, con `brief.md` como primer fichero.
    Consulta `brief.md` antes de tocar nada dentro de esa carpeta.
-5. **No metas PDFs en el repo.** Ver `bibliography/README.md`.
+5. **No versiones PDFs.** Pueden vivir en `bibliography/pdfs/`, que está
+   ignorado por git: léelos desde ahí si te hacen falta, pero nunca los añadas
+   al control de versiones. Ver `bibliography/README.md`.
 6. **Idioma:** el contexto y las notas se escriben en español. Los papers,
    propuestas, abstracts y el CV se escriben en inglés salvo que el brief del
    proyecto diga otra cosa.

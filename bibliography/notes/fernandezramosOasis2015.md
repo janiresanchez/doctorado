@@ -10,7 +10,7 @@ rating: 4
 
 **Referencia:** Fernández Ramos, J. y Piñeiro García de León, C. (2015).
 *Educación Global Research*, nº 8, pp. 108-…
-**Acceso:** PDF en `~/Desktop/PROYECTOS/Doctorado/Bibliografía/`
+**Acceso:** PDF local en `bibliography/pdfs/EGR08-03-J.-Fernandez-C.-Pieiro-Castellano.pdf` (fuera de control de versiones)
 
 ## ⭐ Por qué esta referencia importa más de lo que parece
 

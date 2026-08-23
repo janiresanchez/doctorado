@@ -13,6 +13,10 @@ están excluidos en `.gitignore`.
 - **`notes/<citekey>.md`** — una nota por referencia. Esto es lo que un agente
   lee para citar con criterio; el `.bib` solo aporta los metadatos.
 - **`reading-queue.md`** — por leer. Basta con un DOI o un enlace.
+- **`pdfs/`** — PDFs descargados. **Está en `.gitignore`: existe en el disco pero
+  nunca se sube.** Sirve para que un agente pueda leer un PDF sin salir del
+  repositorio, sin que el repositorio engorde ni distribuya material con
+  copyright. Nómbralos por citekey cuando puedas.
 
 ## Configurar Zotero (una vez)
 

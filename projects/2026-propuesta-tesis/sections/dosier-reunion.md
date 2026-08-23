@@ -103,6 +103,6 @@ que hace que funcione.
       Bautista-Cerro y Díaz González. **Es lo último de tu interlocutora.**
 - [ ] Verificar en catedraunescoeads.es quién dirigió PRAD-ODS y qué hay
       publicado. No atribuyas de memoria.
-- [ ] Releer el CAFTÁN completo: tienes el PDF en el escritorio.
+- [ ] Releer el CAFTÁN completo: el PDF está en `bibliography/pdfs/`.
 - [ ] Avisar a Rubén Díaz Sierra de que has escrito.
 - [ ] Llevar el artículo de *Diversity* impreso o el DOI a mano.
