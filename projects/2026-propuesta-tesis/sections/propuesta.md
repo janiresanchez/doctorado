@@ -53,7 +53,18 @@ mide conocimientos, actitudes y comportamientos ambientales en 4º de ESO, pero 
 evalúa la **capacidad de discriminar desinformación climática**. Esa capacidad se
 ha vuelto una competencia central: la negación abierta ha dado paso a formas más
 sutiles —retraso, desvío de responsabilidad, descrédito de las soluciones— que
-exigen destrezas de verificación, no solo conocimiento del fenómeno.
+exigen destrezas de verificación, no solo conocimiento del fenómeno
+(Lewandowsky, 2021).
+
+Esta distinción tiene respaldo teórico. Cook, Lewandowsky y Ecker (2017)
+demuestran que la resistencia a la desinformación se construye exponiendo la
+**técnica argumentativa engañosa**, y que ese efecto se produce **incluso sin
+aportar la información factual correcta**: saber de clima y saber reconocer un
+argumento climático engañoso son capacidades distintas. Cook, Ellerton y Kinkead
+(2018) ofrecen además una tipología de errores de razonamiento —falso experto,
+cereza escogida, falsa analogía, expectativa imposible, incoherencia lógica— que
+permite codificar y puntuar respuestas de forma sistemática, y no solo como
+acierto o error.
 
 **Variable explicativa.** Se sabe poco sobre si cursar un currículo con contenido
 ambiental produce efectivamente una alfabetización ecosocial distinta, y sobre
@@ -95,9 +106,22 @@ dimensión que hoy no forma parte de los instrumentos disponibles.
 ### Fase 1 — Construcción y validación del instrumento
 
 Adaptación del CAFTÁN a la población de estudio y desarrollo de un bloque nuevo
-sobre desinformación climática, a partir de la dinámica de verificación que ya
-utilizo en el aula. Validación en dos etapas, siguiendo el procedimiento del
-propio CAFTÁN:
+sobre desinformación climática.
+
+El punto de partida de ese bloque no es teórico: es un **prototipo ya probado en
+aula**. La dinámica que utilizamos entrega al alumnado afirmaciones reales sobre
+clima y energía junto con un conjunto de fuentes deliberadamente mezclado —unas
+rigurosas, otras descontextualizadas o sin base científica— y les pide emitir un
+veredicto. Las afirmaciones no se clasifican en verdadero o falso, sino en cinco
+categorías: bulo, doble bulo, alerta, necesita contexto y verdad. Esa gradación,
+que incluye afirmaciones ciertas y afirmaciones ciertas pero utilizables para
+justificar la inacción, evita medir escepticismo indiscriminado en lugar de
+pensamiento crítico.
+
+El trabajo de la Fase 1 consiste en recodificar esas afirmaciones según la
+tipología de errores de razonamiento de Cook et al. (2018), convertir la
+respuesta grupal en respuesta individual puntuable mediante rúbrica, y validar
+el conjunto en dos etapas, siguiendo el procedimiento del propio CAFTÁN:
 
 1. **Juicio de expertos**, valorando relevancia, claridad, coherencia y
    suficiencia de los ítems.
@@ -165,8 +189,11 @@ presente propuesta continúa esa línea desde el lado educativo.
 1. **Amplitud del constructo.** ¿La desinformación climática debe ser una
    dimensión dentro de la alfabetización ecosocial, o tiene entidad suficiente
    para vertebrar la tesis?
-2. **Etapa.** ¿Conviene abarcar Secundaria, FP y Bachillerato, o concentrarse en
-   FP, que es donde el hueco es mayor?
+2. **Etapa.** Mi criterio de partida es **no cerrar puertas y abarcar
+   Secundaria, FP y Bachillerato**: dada la escala actual del programa de
+   talleres, restringir la población a FP comprometería la muestra. Dicho esto,
+   reconozco que el hueco de literatura es mayor en FP y que concentrarse ahí
+   daría una tesis más nítida. Es una decisión que me gustaría cerrar con usted.
 3. **Encaje institucional.** ¿Tendría sentido dentro de algún proyecto en curso
    de la Cátedra, o como tesis independiente?
 4. **Acceso y plazos.** ¿Cuál es la vía de admisión al programa a día de hoy y
@@ -186,9 +213,21 @@ Responses of White-Faced Capuchins (*Cebus imitator*) Under Contrasting
 Ecotourism Pressures in Tortuguero National Park. *Diversity*, 18(3), 169.
 https://doi.org/10.3390/d18030169
 
+Cook, J., Ellerton, P. y Kinkead, D. (2018). Deconstructing climate
+misinformation to identify reasoning errors. *Environmental Research Letters*,
+13(2), 024018. https://doi.org/10.1088/1748-9326/aaa49f
+
+Cook, J., Lewandowsky, S. y Ecker, U. (2017). Neutralizing misinformation
+through inoculation: Exposing misleading argumentation techniques reduces their
+influence. *PLOS ONE*, 12(5), e0175799.
+https://doi.org/10.1371/journal.pone.0175799
+
+Lewandowsky, S. (2021). Climate Change Disinformation and How to Combat It.
+*Annual Review of Public Health*, 42(1), 1-21.
+https://doi.org/10.1146/annurev-publhealth-090419-102409
+
 *Voces para una alfabetización ecosocial* (2022). UNED.
 https://doi.org/10.5944/VAE28060
 
 <!-- PENDIENTE: añadir las referencias del grupo (PRAD-ODS, Guía PRADO,
-     Bautista-Cerro y Díaz González 2025) una vez verificadas, y 2-3 referencias
-     sobre desinformación climática, que es el bloque más débil ahora mismo. -->
+     Bautista-Cerro y Díaz González 2025) una vez verificadas. -->
