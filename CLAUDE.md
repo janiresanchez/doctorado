@@ -44,7 +44,12 @@ No empieces a producir texto sin haber leído esos tres.
 6. **Idioma:** el contexto y las notas se escriben en español. Los papers,
    propuestas, abstracts y el CV se escriben en inglés salvo que el brief del
    proyecto diga otra cosa.
-7. **Si falta información, pregunta.** No rellenes datos biográficos, resultados,
+7. **Janire no es programadora.** Está aprendiendo a usar Claude. Explica en
+   castellano llano, sin jerga técnica; cuando un término técnico sea inevitable,
+   defínelo la primera vez. Nada de dar por supuesto qué es una rama, un commit o
+   un pull request. Si hay que ejecutar algo en su Mac, dale los pasos exactos y
+   di qué hace cada uno y qué debería ver.
+8. **Si falta información, pregunta.** No rellenes datos biográficos, resultados,
    cifras ni afiliaciones por inferencia.
 
 ## Estado del repositorio
