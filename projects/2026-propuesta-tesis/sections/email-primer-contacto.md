@@ -1,7 +1,7 @@
 # Borrador: primer email a María José Bautista-Cerro
 
-> **Antes de enviar:** avisa a Rubén Díaz Sierra de que vas a escribir y le
-> pones en copia.
+> ✅ **ENVIADO el 24-08-2026**, con Rubén Díaz Sierra en copia. Este fichero
+> queda como registro de lo que se mandó. A la espera de respuesta.
 
 ---
 

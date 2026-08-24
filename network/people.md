@@ -22,9 +22,18 @@ centrada en **alfabetización ecosocial**.
 **Por qué me interesa**
 Es la potencial directora de tesis. La propuesta se escribe para ella.
 
-**Estado del contacto:** en contacto.
+**Estado del contacto:** **primer email enviado el 24-08-2026**, con Rubén Díaz
+Sierra en copia. Texto en
+`projects/2026-propuesta-tesis/sections/email-primer-contacto.md`. A la espera
+de respuesta.
 
-**Siguiente paso:** enviar propuesta de tema + confirmar plazos de admisión.
+**Siguiente paso:** si responde, cerrar reunión y llevar el dosier
+(`sections/dosier-reunion.md`) y el guion. Si no hay respuesta en dos semanas,
+valorar un recordatorio breve o pedirle a Rubén que lo mueva.
+
+**Pendiente de confirmar en la reunión:** plazos de admisión del programa —
+la preinscripción 2026/2027 podría estar ya cerrada (ver alerta en
+`context/profile.md`).
 
 ---
 
