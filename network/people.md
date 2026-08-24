@@ -37,6 +37,19 @@ la preinscripción 2026/2027 podría estar ya cerrada (ver alerta en
 
 ---
 
+## Álvaro Francisco Gil — colaborador (Ecomanía)
+
+- **Vínculo:** socio en **Ecomanía**, proyecto externo.
+  `github.com/alvaro-francisco-gil/ecomania`.
+- **Reparto:** él lleva el software (Expo, Next.js, Firebase); Janire lleva el
+  concepto de los ejes ecológicos, las encuestas y la parte de producto.
+- **Por qué aparece aquí:** es coautor de facto del modelo de cuatro ejes de
+  cosmovisión ecológica. Si la validación factorial del instrumento acaba siendo
+  un artículo, es coautor. Conviene hablarlo con él **antes** de ofrecérselo a la
+  Cátedra como línea publicable.
+
+---
+
 ## María Novo Villaverde
 
 - **Afiliación:** UNED, catedrática emérita.

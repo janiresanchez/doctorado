@@ -28,6 +28,43 @@ estás dentro del campo**.
    climática desde la **transición justa** — que es clima más equidad, empleo y
    territorio: exactamente lo que separa lo *ecosocial* de lo ambiental clásico.
    No tienes que reorientar tu trabajo para encajar: ya encaja.
+4. **Experiencia en diseño de instrumentos con fundamentación teórica.** En
+   Ecomanía has desarrollado un modelo de cuatro ejes de cosmovisión ecológica y
+   la encuesta que posiciona en él. Pasas de "sé analizar datos" a "sé analizar
+   y sé construir el instrumento". Ver detalle abajo.
+
+### El cuarto activo: Ecomanía
+
+**Cómo decirlo, en dos frases:**
+
+> "Además, con un colega llevo un proyecto donde he desarrollado un modelo de
+> cuatro ejes de cosmovisión ecológica —antropocéntrico/ecocéntrico,
+> tecnológico/suficiencia, individual/colectivo, tecnocrático/de base— a partir
+> del NEP, el Environmental Attitudes Inventory y la teoría cultural del riesgo,
+> con la encuesta que posiciona a alguien en ese espacio. El documento reconoce
+> que le falta validación factorial sobre datos reales, y ahí veo un encaje
+> evidente con lo que hacéis."
+
+**Reparto:** tuyo el concepto de los ejes, las encuestas y el producto; de Álvaro
+Francisco Gil, el software. La parte investigable es la tuya, así que puedes
+decir "he desarrollado" sin matizarlo.
+
+**Por qué merece los quince segundos:** el modelo parte de que la ideología
+ambiental es de baja dimensionalidad, y por eso separa **qué tipo de verde** de
+**cuánto verde**. Esa es precisamente la objeción que te van a poner al 2×2: si
+el alumnado del ciclo de renovables y el del ciclo sin contenido ambiental salen
+los dos "moderadamente verdes", no has medido nada. Llegar con la distinción ya
+resuelta demuestra que has pensado el problema de medida, no solo el de diseño.
+
+**Encuadre.** Lo que llevas no es una app: es **trabajo conceptual sobre medición
+de valores ecológicos**. La app es el contexto. Dicho al revés, y sabiendo ella
+que trabajas a jornada completa, suena a tercer frente abierto.
+
+**Va en tercer lugar**, después del acceso al aula y de la publicación. No abre
+la conversación.
+
+**Llévate impreso el `value-system.pdf`.** Es lo único que puedes dejar encima de
+la mesa.
 
 ## 3. La pregunta que llevas
 
@@ -53,6 +90,13 @@ comportamientos. **No mide capacidad de discriminar desinformación climática.*
 Eso es un bloque de ítems nuevo, defendible teóricamente, muy actual y
 publicable por sí solo.
 
+Y hay un segundo filo del mismo hueco, que es el que aporta Ecomanía: el CAFTÁN,
+como el NEP, mide **cuánta** alfabetización ecosocial, no **de qué tipo**. En una
+muestra escolar donde casi nadie es abiertamente negacionista, la varianza
+interesante puede estar en la orientación —tecnológica frente a suficiencia,
+individual frente a colectiva— y no en el nivel. Los cuatro ejes son una forma ya
+fundamentada de capturarla.
+
 **Hueco de método.** Su catálogo combina encuestas amplias, comparación entre
 dos territorios, trabajo conceptual y etnografía — pero no cuestionario más
 cualitativo en el mismo diseño. Ahí está tu sello.
@@ -70,7 +114,11 @@ y demuestran que piensas en términos prácticos:
    independiente?**
 3. **¿Ve viable compatibilizar la tesis con jornada completa?** Y si sí, ¿en qué
    régimen —tiempo parcial— y con qué ritmo esperado.
-4. **¿Qué le falta a esta idea para ser una tesis?** La pregunta más útil que
+4. **¿Vería publicable la validación factorial del modelo de cuatro ejes?**
+   Es un artículo metodológico separable de la tesis, y le estás ofreciendo algo,
+   no solo pidiendo. Si dice que sí, tienes una vía de entrada al grupo que no
+   depende de los plazos de matrícula.
+5. **¿Qué le falta a esta idea para ser una tesis?** La pregunta más útil que
    puedes hacer, y la que mejor impresión deja.
 
 ## 6. Lo que NO debes prometer
@@ -84,6 +132,20 @@ y demuestran que piensas en términos prácticos:
   acumulación de muestra en dos o tres cursos.
 - **Impacto sostenido.** Sesión única de 1,5 h permite un diseño pre-post en la
   propia sesión, pero no medir efectos duraderos sin medición diferida.
+- **Datos de Ecomanía.** El producto **no está construido**: no hay encuesta
+  implementada ni una sola respuesta recogida. Lo que llevas es el modelo y el
+  diseño del instrumento, no datos. Si te preguntan por muestra, esa es la
+  respuesta.
+- **Pasar la encuesta de Ecomanía en aulas.** El vector de valores es dato de
+  categoría especial (RGPD) y hablamos de menores: consentimiento parental y
+  comité de ética. No lo insinúes como algo inmediato; es una vía a explorar con
+  ella, y de hecho es buena pregunta para hacerle.
+
+**Y un matiz que conviene adelantar tú:** el modelo de Ecomanía asume usuarios
+autoseleccionados que ya son verdes, y por eso gasta los ejes en orientación. El
+alumnado de un instituto no está autoseleccionado. No lo invalida —en esa muestra
+sí habrá varianza en "cuánto"— pero decirlo tú demuestra que conoces los límites
+de tu propio instrumento.
 
 ## 7. El doctorado anterior: cómo contarlo
 
@@ -106,3 +168,7 @@ que hace que funcione.
 - [ ] Releer el CAFTÁN completo: el PDF está en `bibliography/pdfs/`.
 - [ ] Avisar a Rubén Díaz Sierra de que has escrito.
 - [ ] Llevar el artículo de *Diversity* impreso o el DOI a mano.
+- [ ] Imprimir `value-system.pdf` de Ecomanía (`docs/projects/`).
+- [ ] **Hablar con Álvaro Francisco Gil antes de la reunión.** Vas a ofrecer la
+      validación del modelo como línea publicable y él es coautor de facto: que
+      no se entere después.
