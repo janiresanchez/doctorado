@@ -29,9 +29,7 @@ Mi interés investigador se encamina por la línea de la alfabetización ecosoci
 y de las relaciones entre territorio rural-urbano, y veo que ambas líneas son
 objeto de trabajo de la cátedra. Me interesa en particular qué ocurre en
 secundaria y FP, además, tengo la ventaja de poder llegar al aula porque los
-talleres los diseño y los imparto yo. Aun así, me quedaría pendiente hablar con
-mi organización para encontrar la vía adecuada para compaginar mi trabajo con el
-programa de investigación.
+talleres los diseño y los imparto yo.
 
 Me preguntaba si contáis con algún proyecto en marcha al que pudiera sumarme o
 si cabe la posibilidad de plantear una investigación propia.
@@ -68,11 +66,19 @@ presente en la reunión: la persona de la cátedra que trabaja relaciones
 campo-ciudad es Yayo Herrero, así que la mención puede derivar la conversación
 hacia ella.
 
-**Se dice de entrada que hay un trabajo a jornada completa que compaginar.**
-Es franco y evita una sorpresa posterior. La contrapartida es que introduce una
-objeción antes de que la interlocutora haya visto el interés del tema; conviene
-llevar preparada a la reunión una respuesta concreta sobre qué apoyo puede dar
-Fundación Renovables.
+**La jornada completa no se menciona en el email: se cuenta en la reunión.**
+Decirlo aquí introducía una objeción antes de que la interlocutora hubiera visto
+el interés del tema, y desactivaba la frase que más trabaja de todo el correo
+("los talleres los diseño y los imparto yo") justo después de leerla. No es
+ocultarlo: sale a los cinco minutos de la reunión y allí se puede explicar con
+matices. **Llevar preparada** una respuesta concreta sobre qué apoyo puede dar
+Fundación Renovables — ver el dosier.
+
+**Se han dejado fuera, a propósito, para contarlos en la reunión:** los
+diecisiete talleres de este curso, el taller de desinformación climática y su
+dinámica de verificación, y el detalle de que el artículo terminaba recomendando
+programas de educación ambiental. Se explican mejor con contexto y en
+conversación que en un primer correo.
 
 **No se menciona el doctorado anterior.** Deliberado. En un primer email obliga
 a explicaciones que descolocan el tono. En la reunión saldrá solo en cuanto se
