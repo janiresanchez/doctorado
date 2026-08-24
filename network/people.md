@@ -114,3 +114,48 @@ métodos. Son también las personas con quienes compartiría día a día.
   No son del grupo, pero marcan el estado de la cuestión de la candidata C-B.
 
 ---
+
+# Alternativas fuera de la UNED
+
+> **Añadido 2026-08-24.** Personas con las que hablar si la vía de la Cátedra
+> UNESCO EADS no cuaja. Fichas completas de sus grupos en `network/groups.md`.
+> Datos de fuentes públicas de agosto de 2026, pendientes de verificar.
+
+---
+
+## Pablo Ángel Meira Cartea
+
+- **Afiliación:** USC, grupo SEPA-interea.
+- **Líneas:** representaciones sociales del cambio climático, educación
+  ambiental frente a la crisis climática, alumnado y profesorado.
+- **Por qué me interesa:** es quien más cerca está de lo que quiero medir. Su
+  trabajo sobre creencias y valoraciones del cambio climático en alumnado es el
+  precedente directo del bloque de desinformación climática.
+
+## José Antonio Caride Gómez
+
+- **Afiliación:** USC, catedrático de Pedagogía Social, IP de SEPA-interea.
+- **Por qué me interesa:** dirige el grupo. La entrada institucional pasa por él.
+
+## Mercè Junyent Pubill
+
+- **Afiliación:** UAB, Dpto. de Didáctica de la Matemática y las CC.
+  Experimentales, grupo GRESC@.
+- **Formación:** licenciada en Biología, doctora en Pedagogía. *(Trayectoria
+  parecida a la mía: ciencias primero, educación después.)*
+- **Líneas:** educación ambiental, educación para la sostenibilidad,
+  competencias profesionales, formación del profesorado.
+
+## Francisco Javier Perales Palacios
+
+- **Afiliación:** UGR, responsable del grupo HUM-613.
+- **Líneas:** didáctica de las ciencias experimentales, educación ambiental a
+  partir de problemas del territorio, EDS y transición ecológica y digital.
+
+## Roser Boix Tomàs
+
+- **Afiliación:** UB, Dpto. de Didáctica y Organización Educativa.
+- **Líneas:** escuela rural, aula multigrado, dimensión territorial en el aula.
+- **Por qué me interesa:** tiene un cuestionario validado (CC-PER) sobre la
+  dimensión territorial, que es justo lo que el CAFTÁN no cubre. Interlocutora
+  obligada si el territorio vuelve a ser constructo y no solo contexto.
