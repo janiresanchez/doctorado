@@ -159,3 +159,45 @@ métodos. Son también las personas con quienes compartiría día a día.
 - **Por qué me interesa:** tiene un cuestionario validado (CC-PER) sobre la
   dimensión territorial, que es justo lo que el CAFTÁN no cubre. Interlocutora
   obligada si el territorio vuelve a ser constructo y no solo contexto.
+
+---
+
+## Araceli Serantes Pazos ⭐ referencia propia en educación ambiental
+
+- **Afiliación:** **Universidade da Coruña (UDC)**, Dpto. de Pedagoxía e
+  Didáctica. *(No USC: allí se licenció, pero su plaza es en A Coruña.
+  ⚠️ Confirmar antes de escribirle.)*
+- **Perfil:** https://www.udc.es/dep/pdce/Boli/Araceli_Serantes/Inicio.html
+- **Formación:** Filosofía y Ciencias de la Educación (USC, 1983-88); cursos de
+  doctorado en la UNED y en la UDC. **Tesis sobre los equipamientos de educación
+  ambiental en Galicia: análisis de la realidad y propuesta de criterios de
+  calidad.**
+
+**Trayectoria**
+Casi toda su carrera en educación ambiental de campo antes que en la
+universidad: granja escuela, coordinación de equipos educativos, aula de
+ecología urbana, formación de educadores. Vinculada al **CEIDA**, centro de
+referencia de educación ambiental en Galicia.
+
+**Redes**
+SGEA (Sociedade Galega de Educación Ambiental), Nova Escola Galega, AIP,
+SIPS, **NEREA-investiga** (red internacional de investigadores en EA) y
+**REAJA** (Red Internacional de Investigación en Educación Ambiental y Justicia
+Climática). Vinculada a la revista *AmbientalMENTEsustentable* (UDC).
+
+**Por qué me interesa**
+
+Es la persona de esta lista cuya trayectoria más se parece a la mía: **entró a
+la investigación desde el trabajo en equipamientos de educación ambiental**, que
+es exactamente mi recorrido por los CEA de Caserío de Henares y Polvoranca. Su
+tesis va sobre los equipamientos como objeto de estudio. Si en algún momento
+hace falta un argumento de que un dispositivo educativo profesional puede
+convertirse en objeto de investigación, es ella quien tiene el precedente.
+
+Además, **NEREA-investiga es la red donde está toda la gente de este mapa**:
+entrar ahí es más barato que llamar a cada grupo por separado.
+
+**Estado del contacto:** sin contacto.
+
+**Siguiente paso:** confirmar universidad y correo actuales. Posible primer
+contacto vía SGEA o a través del seminario del CENEAM.

@@ -10,6 +10,33 @@
 > bloqueados desde el entorno en el que se compiló esta lista, así que los datos
 > vienen de fuentes secundarias.
 
+## Tabla maestra
+
+> Prioridad calculada para el perfil de Janire a 2026-08-24. **Todas las fechas
+> son *por confirmar* en fuente oficial: `aei.gob.es` y `ciencia.gob.es` estaban
+> bloqueados desde el entorno donde se compiló esta lista.**
+
+| # | Vía | Organismo | Plazo | Dotación / duración | ¿Compatible con Fundación Renovables? | Prioridad |
+|---|---|---|---|---|---|---|
+| 1 | **Doctorado Industrial** | AEI | **30 sep – 26 oct 2026** *(previsto)* | Contrato predoctoral 4 años, cofinanciado en costes marginales | ✅ **Sí — es su razón de ser** | 🟢 **Máxima** |
+| 2 | **FPI** (ligada a proyecto) | AEI | **1 – 30 sep 2026** *(verificar ya)* | Contrato predoctoral 4 años | ❌ Dedicación exclusiva | 🟢 **Máxima si hay plaza afín**; nula si no la hay |
+| 3 | **FPU 2026** | AEI | **20 oct – 20 nov 2026** | 4 años; referencia previa 25.116 €/año mín. | ❌ Dedicación exclusiva | 🟡 **Media-alta.** Elegible con un 7,0 (ISCED 0521 → 6,861). Ver §1.2 |
+| 4 | **INPhINIT Retaining** | Fundación "la Caixa" | Edición 2026 cerró el **18 feb 2026**; siguiente prevista otoño 2026 – feb 2027 | 4 años; 35.800 €/año + 3.500 €/año investigación + matrícula | ❌ Dedicación exclusiva | 🟡 **Media-alta.** Única gran beca privada abierta a cualquier disciplina. La mejor pagada de la lista |
+| 5 | **PREDOC Castilla y León** | Junta de CyL | Anual, primavera *(última resuelta ORDEN EDU/48/2026, 22 ene)* | 90 ayudas, 10,34 M€; 4 años + estancia de 3 meses | ❌ Dedicación exclusiva | 🟡 **Media.** Solo si el destino es la **UVa (Facultad de Educación de Segovia)** |
+| 6 | **Predoctorales Comunidad de Madrid** | Comunidad de Madrid | ⚠️ Reorganizada: la de 2025 se aplazó a mediados de 2026 | 4 años; anuncian mejora salarial, más movilidad y matrícula subvencionable | ❌ Dedicación exclusiva | 🟡 **Media.** Verificar estado real |
+| 7 | **Predoctorales La Rioja** | Gob. de La Rioja | Convocatoria de **junio de 2026** | 9 ayudas; hasta **39.400 €/año** (36.000 + 400 matrícula + 3.000 movilidad), 4 años | ❌ Dedicación exclusiva | 🔴 **Baja.** Esa línea era **para centros tecnológicos**, no para educación. Mirar la vía propia de la UR |
+| 8 | **Convocatoria propia UNED** (FPI adscritos a grupos y a proyectos) | UNED | Anual, primavera *(la de 2025 se publicó el 12 may, plazo hasta el 12 jun)* | Contrato predoctoral | ❌ Dedicación exclusiva | 🟡 **Media.** Solo tiene sentido si la Cátedra la acoge |
+| 9 | **Daniel Carasso Fellowship** | Fund. Daniel y Nina Carasso | Ediciones anuales, apertura en enero | 160.000 € / 2 años | — | 🔴 **Es postdoctoral.** Para el final de la tesis |
+| 10 | **Fundación Biodiversidad** | MITECO | Varias convocatorias abiertas a lo largo del año | Financia **proyectos de entidades** | ✅ Sí, pero indirecta | 🔴 **Baja como beca.** Vía para que la Fundación sostenga el campo |
+
+### Lectura rápida de la tabla
+
+Solo hay **una casilla verde en la columna de compatibilidad**: el doctorado
+industrial. Todo lo demás obliga a elegir entre el sueldo actual y el contrato
+predoctoral. Esa es la decisión de fondo, y no la resuelve ninguna convocatoria.
+
+---
+
 ## Advertencia previa que condiciona todo lo demás
 
 Un contrato predoctoral (FPU, FPI, autonómico) es un **contrato laboral a
@@ -63,10 +90,20 @@ Hay dos formas de resolverlo y conviene decidir cuál antes de solicitar nada:
 - **Referencia de dotación:** la convocatoria anterior (FPU2025, resuelta en
   2026) ofreció 870 ayudas y una retribución mínima de 25.116 €/año, 4 años.
   Cifras de 2026 sin confirmar.
-- **Requisito duro:** nota media mínima de expediente por rama ISCED. **Hay que
-  calcular la nota media del grado en Ciencias Ambientales antes de invertir
-  tiempo en la solicitud** — es el filtro que elimina más candidaturas.
-- **Encaje:** alto si hay director en universidad pública. Es la vía canónica.
+- **Requisito duro — y aquí hay una buena noticia:** el filtro no es una nota
+  absoluta, es la **nota de referencia del código ISCED de tres dígitos del
+  grado**, es decir, la media de los egresados de esa misma titulación en toda
+  España. Para **ISCED 0521 "Ciencias del medio ambiente" la nota de referencia
+  publicada por el Ministerio (tabla FPU 2024, cursos 2018/19–2022/23) es
+  6,861**. Con un 7,0 **se pasa el filtro de elegibilidad**.
+  ⚠️ La tabla se actualiza en cada convocatoria: **verificar el anexo de la
+  FPU 2026 cuando se publique**, y confirmar el ISCED exacto del título de la UAM.
+- **Matiz honesto:** pasar el filtro no es lo mismo que ganar. La nota media
+  pondera en el baremo y un 7,0 no compite contra expedientes de 9. Lo que
+  cambia el cálculo es que en 2026 **75 de los 100 puntos van a la trayectoria**,
+  no solo al expediente: un **artículo indexado en abierto y como primera
+  autora** es un mérito que la mayoría de los solicitantes de FPU no tiene.
+- **Encaje:** medio-alto. No descartarla por la nota sin haber mirado el anexo.
 
 ### 1.3 FPI 2026 — contratos ligados a proyectos de Generación de Conocimiento
 
