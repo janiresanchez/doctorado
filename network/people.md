@@ -13,11 +13,16 @@ Educación para el desarrollo sostenible, educación ambiental, sostenibilizaci�
 curricular, formación del profesorado en sostenibilidad. Actualmente muy
 centrada en **alfabetización ecosocial**.
 
-**Trabajo clave**
-- Dirigió el proyecto **PRAD-ODS** (alfabetización ecosocial en la formación
-  inicial del profesorado de Secundaria).
+**Trabajo clave** *(verificado en `murgamenoyoVoces2022`)*
+- **Co-IP del proyecto PRAD-ODS**, ref. RTI2018-095746-B-I00 (Ministerio de
+  Ciencia, Innovación y Universidades, 2019-2022), junto con Murga-Menoyo.
+  ⚠️ No es su directora en solitario: son dos IP. No lo digas mal en la reunión.
+- **Coeditora** de *Voces para una alfabetización ecosocial* (UNED, 2022), con
+  Murga-Menoyo como primera editora. Firma las voces *crecimiento/decrecimiento*,
+  *límites ecosistémicos*, *pensamiento complejo*, *principio de incertidumbre*,
+  *realimentación* y *sistema* — su terreno es el **marco de la complejidad**.
 - *Educación ambiental en tiempos de emergencia planetaria* (2025), con
-  María José Díaz González.
+  María José Díaz González. **Sin verificar.**
 
 **Por qué me interesa**
 Es la potencial directora de tesis. La propuesta se escribe para ella.
@@ -41,9 +46,13 @@ Es la potencial directora de tesis. La propuesta se escribe para ella.
 
 - **Afiliación:** UNED, Cátedra UNESCO EADS.
 - **Líneas:** sostenibilización curricular, educación para el desarrollo sostenible.
-- **Por qué me interesa:** co-responsable de la línea de alfabetización ecosocial
-  con Bautista-Cerro. Si la propuesta va por sostenibilización del currículo,
-  es interlocutora directa.
+- **Trabajo clave** *(verificado)*: **primera editora** de *Voces para una
+  alfabetización ecosocial* (2022) y autora de sus cuatro capítulos de marco;
+  **co-IP de PRAD-ODS** con Bautista-Cerro.
+- **Por qué me interesa:** es quien ha escrito la conceptualización de la
+  alfabetización ecosocial que voy a citar. Su peso en la línea es al menos igual
+  al de la directora. Si la propuesta va por sostenibilización del currículo, es
+  interlocutora directa.
 
 ---
 

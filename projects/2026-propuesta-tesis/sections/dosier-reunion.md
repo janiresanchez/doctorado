@@ -101,8 +101,11 @@ que hace que funcione.
 
 - [ ] Leer *Educación ambiental en tiempos de emergencia planetaria* (2025), de
       Bautista-Cerro y Díaz González. **Es lo último de tu interlocutora.**
-- [ ] Verificar en catedraunescoeads.es quién dirigió PRAD-ODS y qué hay
-      publicado. No atribuyas de memoria.
+- [x] ~~Verificar quién dirigió PRAD-ODS.~~ **Hecho.** Dos IP: **Murga-Menoyo y
+      Bautista-Cerro**, ref. RTI2018-095746-B-I00 (MCIU, 2019-2022).
+      No atribuyas el proyecto a la directora en solitario.
+- [ ] Leer el capítulo 4 de *Voces para una alfabetización ecosocial* (pp. 85-102).
+      Está descargado en `bibliography/pdfs/`. Es la definición que vas a citar.
 - [ ] Releer el CAFTÁN completo: el PDF está en `bibliography/pdfs/`.
 - [ ] Avisar a Rubén Díaz Sierra de que has escrito.
 - [ ] Llevar el artículo de *Diversity* impreso o el DOI a mano.
