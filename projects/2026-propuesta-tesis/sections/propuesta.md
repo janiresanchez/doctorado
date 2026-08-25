@@ -48,9 +48,18 @@ prácticamente ninguna sobre el alumnado de **Formación Profesional**, pese a q
 los ciclos de energías renovables y eficiencia energética forman a quienes
 ejecutarán materialmente la transición energética.
 
-**Constructo.** El CAFTÁN (Martínez-Aznar, Calvo Sevillano y Sánchez-León, 2022)
-mide conocimientos, actitudes y comportamientos ambientales en 4º de ESO, pero no
-evalúa la **capacidad de discriminar desinformación climática**. Esa capacidad se
+**Constructo.** El propio marco de la alfabetización ecosocial reconoce la
+evaluación crítica de la información como parte de la competencia que persigue:
+recoge de Pedrinaci (2013) que la persona alfabetizada sabe «valorar la calidad
+de la información científica basándose en la fuente de la que procede y en los
+métodos utilizados para generarla», incluye las competencias básicas en medios de
+comunicación entre los objetivos de la ciudadanía planetaria, y reclama programas
+de alfabetización múltiple (Murga-Menoyo y Bautista-Cerro, 2022, pp. 95, 97 y
+102). Sin embargo, **ninguna de las treinta y nueve voces del diccionario
+desarrolla ese concepto, y ningún instrumento disponible lo mide.** El CAFTÁN
+(Martínez-Aznar, Calvo Sevillano y Sánchez-León, 2022) mide conocimientos,
+actitudes y comportamientos ambientales en 4º de ESO, pero no evalúa la
+**capacidad de discriminar desinformación climática**. Esa capacidad se
 ha vuelto una competencia central: la negación abierta ha dado paso a formas más
 sutiles —retraso, desvío de responsabilidad, descrédito de las soluciones— que
 exigen destrezas de verificación, no solo conocimiento del fenómeno
@@ -226,8 +235,8 @@ Lewandowsky, S. (2021). Climate Change Disinformation and How to Combat It.
 *Annual Review of Public Health*, 42(1), 1-21.
 https://doi.org/10.1146/annurev-publhealth-090419-102409
 
-*Voces para una alfabetización ecosocial* (2022). UNED.
-https://doi.org/10.5944/VAE28060
+Murga-Menoyo, Mª Á. y Bautista-Cerro, Mª J. (Eds.) (2022). *Voces para una
+alfabetización ecosocial*. Madrid: UNED. https://doi.org/10.5944/VAE28060
 
 <!-- PENDIENTE: añadir las referencias del grupo (PRAD-ODS, Guía PRADO,
      Bautista-Cerro y Díaz González 2025) una vez verificadas. -->

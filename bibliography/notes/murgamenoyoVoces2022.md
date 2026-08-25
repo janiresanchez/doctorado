@@ -67,18 +67,50 @@ contenidos básicos del currículo oficial de Secundaria y Bachillerato
 (RD 217/2022 y RD 243/2022). Cada voz se define, se ejemplifica con autores
 reconocidos, se sitúa explícitamente en la Agenda 2030 y trae bibliografía.
 
-## ⭐ El hallazgo que más me importa
+## ⭐ El hallazgo clave, bien formulado
 
-**Entre las 39 voces no hay ninguna sobre desinformación, información,
-verificación ni pensamiento crítico mediático.**
+**Formulación incorrecta (la que tenía antes de leer el capítulo 4):** "el marco
+del grupo ignora la evaluación crítica de la información". **Falso.** No decir
+esto en la reunión.
 
-Hay *cambio climático* y *riesgo climático* (dimensión A), y hay *pensamiento
-complejo* y *principio de incertidumbre* (dimensión C) — pero ninguna aborda cómo
-se distingue una afirmación climática rigurosa de una manipulada.
+**Formulación correcta:** la evaluación crítica de la información **ya está
+reconocida en su marco, en dos de las tres dimensiones, pero no está desarrollada
+ni operacionalizada, y no tiene voz propia en el diccionario.**
 
-Esto ya no es una intuición: es una ausencia comprobada en la obra de referencia
-del propio grupo. **Es la evidencia más sólida de mi hueco de constructo**, y
-puedo enunciarla con precisión en la reunión.
+Las pruebas, en el propio capítulo 4:
+
+1. **Dimensión ambiental (p. 95).** Al vincular alfabetización ambiental y
+   científica, Murga-Menoyo recoge de Pedrinaci (2013) las capacidades de la
+   persona científicamente alfabetizada, entre ellas —literalmente— *"valorar la
+   calidad de la información científica basándose en la fuente de la que procede
+   y en los métodos utilizados para generarla"* y *"valorar los argumentos que se
+   derivan de los hechos establecidos y llegar a conclusiones"*.
+   **Eso es exactamente mi constructo, enunciado por ellas.**
+2. **Dimensión de ciudadanía planetaria (p. 97).** Entre los siete objetivos que
+   recoge de Unesco (2015) figura *"indagación crítica, tecnología de la
+   información, competencias básicas en medios de comunicación, pensamiento
+   crítico"*.
+3. **Cierre del capítulo (p. 102).** Recomienda programas de **alfabetización
+   múltiple**, citando al Consejo de la UE (2012), para *"la comprensión,
+   utilización y evaluación crítica de diferentes formas de información"*.
+
+**Y sin embargo:** ninguna de las 39 voces desarrolla el concepto. No hay
+*desinformación*, ni *información*, ni *verificación*, ni *pensamiento crítico
+mediático*. Tampoco hay instrumento que lo mida: el CAFTÁN no lo recoge.
+
+### Por qué esta formulación es mucho mejor para mí
+
+No llego a señalarles un olvido: **llego a desarrollar algo que ellas mismas han
+declarado necesario y han dejado abierto.** Es un argumento colegiado, no
+correctivo, y además me permite citarlas a ellas como justificación de mi propio
+hueco. En una primera reunión, la diferencia entre las dos formulaciones es
+enorme.
+
+Frase utilizable tal cual: *"Ustedes recogen de Pedrinaci que valorar la calidad
+de la información según su fuente y sus métodos forma parte de la alfabetización
+ambiental, y cierran el capítulo pidiendo programas de alfabetización múltiple.
+Pero no hay una voz que lo desarrolle ni un instrumento que lo mida. Ahí es donde
+creo que puedo aportar."*
 
 ## Segundo hallazgo: mi terreno ya está dentro
 
@@ -98,11 +130,48 @@ que las renovables encajan: encajan por definición suya.
    currículo oficial, igual que hacen ellas.
 5. **Corregir la atribución de PRAD-ODS** antes de hablar con la directora.
 
+## Contenido del capítulo 4 (leído)
+
+**4.1. Contexto.** Dos retos entrelazados:
+- **Reto ecosocial**: degradación de ecosistemas, deterioro institucional,
+  migraciones, debilitamiento de la democracia, cambio climático y brecha por
+  desigualdad. Valores implicados: equidad, integridad ecológica, conciencia
+  crítica de especie, paz y participación, diversidad. El cambio climático es la
+  urgencia principal porque *"su carácter sistémico cuestiona la naturaleza misma
+  del actual modelo de desarrollo"* (Caride y Meira, 2019).
+- **Reto antropológico**: el modelo antropocéntrico es hoy inviable y
+  autodestructivo. Frente a él, conciencia de **interdependencia** biológica y
+  social y de **ecodependencia**; *conciencia crítica de especie* (Carbonell,
+  2018); antropocentrismo débil, humanismo biocéntrico o biocentrismo.
+
+**4.2. El trípode.** Tres líneas de actuación, con fronteras difusas, siguiendo a
+Unesco (2017, p. 20): ambiental (conocer las problemáticas, tomar conciencia de
+sus causas antrópicas, comprometerse), ciudadanía global (pertenencia a una
+comunidad mundial en tres niveles) y sostenibilidad (reflexión crítica y
+propositiva sobre uno mismo y la sociedad).
+- *Ambiental*: la línea más antigua, de finales de los ochenta. **Educación
+  ambiental y alfabetización ambiental se aceptan como equivalentes.** Sus
+  componentes: conocimiento, afectos, habilidades y comportamiento
+  (Álvarez-García et al., 2018) — los mismos tres que mide el CAFTÁN.
+- *Ciudadanía planetaria*: prefieren este término a *global* o *mundial* porque
+  subraya la responsabilidad de preservar la Tierra. Identidad de especie,
+  interdependencia, ecodependencia.
+- *Sostenibilidad*: visión interdisciplinar y holística, espacial y temporal,
+  con las herramientas del **pensamiento complejo** (Morin) y una ética sistémica
+  (Boff).
+
+**4.3. Encaje en la LOMLOE.** Objetivos de aprendizaje en tres dominios:
+**cognitivo, socioemocional y conductual**, con pedagogía transformadora y
+orientada a la acción. Recomienda construir una *malla conceptual* que visibilice
+la relación entre las tres líneas, y programas de **alfabetización múltiple**.
+Para ESO y Bachillerato propone aprendizaje progresivamente autogestionado, por
+su efecto motivador y su potencial para el pensamiento crítico.
+
 ## Pendiente de lectura
 
-Capítulo 4 completo (pp. 85-102), donde desarrolla las tres dimensiones, y las
-voces *cambio climático*, *riesgo climático*, *energía renovable*, *fuentes de
-energía*, *principio de incertidumbre* y *pensamiento complejo*.
+Capítulos 1-3 (marco de EDS, sostenibilización curricular, GreenComp y LOMLOE) y
+las voces *cambio climático*, *riesgo climático*, *energía renovable*, *fuentes
+de energía*, *principio de incertidumbre* y *pensamiento complejo*.
 
 ## Conecta con
 

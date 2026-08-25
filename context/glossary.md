@@ -52,11 +52,21 @@ define. **Esta sección es, literalmente, la aportación conceptual del trabajo.
 | Transición justa | | | por definir |
 | Alfabetización ecosocial informacional | *(término tentativo propio para la dimensión que propongo añadir)* | — | por definir |
 
-## Comprobación hecha
+## Comprobación hecha (matizada tras leer el capítulo 4)
 
-Ninguna de las 39 voces trata la desinformación, la verificación de información
-ni el pensamiento crítico mediático. Existen *cambio climático* y *riesgo
-climático*, y en el plano epistemológico *pensamiento complejo* y *principio de
-incertidumbre*, pero ninguna aborda cómo distinguir una afirmación climática
-rigurosa de una manipulada. **Ese es el hueco de constructo de la tesis, y está
-comprobado en la fuente primaria.**
+**Ninguna de las 39 voces** trata la desinformación, la verificación de
+información ni el pensamiento crítico mediático.
+
+**Pero el marco sí lo reconoce**, sin desarrollarlo. En el capítulo 4,
+Murga-Menoyo recoge de Pedrinaci (2013) que la persona alfabetizada
+científicamente sabe *"valorar la calidad de la información científica basándose
+en la fuente de la que procede y en los métodos utilizados para generarla"*
+(p. 95); incluye entre los objetivos de ciudadanía planetaria las *"competencias
+básicas en medios de comunicación"* (p. 97); y cierra pidiendo programas de
+**alfabetización múltiple** para la *"evaluación crítica de diferentes formas de
+información"* (p. 102).
+
+**El hueco, por tanto, no es de reconocimiento sino de desarrollo:** el concepto
+está declarado necesario, carece de voz propia en el diccionario y no existe
+instrumento que lo mida. La tesis desarrolla algo que ellas dejaron abierto, y
+puede citarlas como justificación.
