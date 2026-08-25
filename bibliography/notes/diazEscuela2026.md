@@ -12,6 +12,19 @@ rating:
 Universidad Autónoma de Madrid. Web del proyecto.
 **DOI/URL:** https://escuelavaciada.netlify.app/page/about/
 
+> ✅ **Existencia y tema confirmados por Janire**, que la conoció en persona
+> (2026-08-24): efectivamente hace la tesis sobre escuela rural y uno de sus
+> territorios es La Rioja.
+>
+> **Contacto:** `esther.diaz@uam.es` *(aparece en la reseña de escuelarural.net;
+> confirmar antes de usarlo).*
+>
+> **Lo que sigue sin encontrarse tras una segunda búsqueda:** apellido completo,
+> dirección de tesis, grupo o departamento de adscripción en la UAM,
+> financiación, y cualquier publicación derivada. No hay entrada localizable en
+> Dialnet ni en el repositorio de la UAM. Probablemente esté en fase temprana.
+> **Pregúntaselo directamente cuando quedéis.**
+>
 > ⚠️ **METADATOS SIN VERIFICAR.** El dominio del proyecto está bloqueado desde el
 > entorno en el que se creó esta nota, así que **no he podido leer la web**. Todo
 > lo que sigue procede de resúmenes de buscador de una reseña en `escuelarural.net`
