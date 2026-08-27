@@ -33,12 +33,10 @@ Cuando una se lee: pasa a Zotero, crea su nota en `notes/` y bórrala de aquí.
 | Referencia | Por qué | Prioridad |
 |---|---|---|
 | **Krpan, D., Basso, F., Hickel, J. y Kallis, G. (2025).** "Assessing public support for degrowth: survey-based experimental and predictive studies". *The Lancet Planetary Health*, 9(11). DOI 10.1016/j.lanplh.2025.101326 | **La referencia central.** Ocho enfoques económicos valorados por 5.000 personas; el efecto etiqueta (73% con el contenido, 28% con la palabra "decrecimiento") es la base del diseño experimental propuesto | **Máxima** |
-| **Báez Gómez, J. E. (2016).** "La conciencia ambiental en España a principios del siglo XXI". *Papers. Revista de Sociologia*, 101(3), 363-388 | Base social del ecologismo español (joven, universitario, izquierda, sector público) **y** el hallazgo de que el hábitat rural/urbano no discrimina una vez controlado lo demás. Amenaza directa al 2×2 | **Máxima** |
 | **Berenguer, J., Corraliza, J. A. y Martín, R. (2005).** "Rural-urban differences in environmental concern, attitudes, and actions". *European Journal of Psychological Assessment*, 21(2), 128-138 | El precedente español exacto del contraste rural/urbano, con NEP. Urbanos más proambientales que rurales | **Máxima** |
 | **De Groot, J. I. M. y Steg, L. (2008).** "Value Orientations to Explain Beliefs Related to Environmental Significant Behavior". *Environment and Behavior*, 40(3), 330-354. DOI 10.1177/0013916506297831 | 13 ítems, tres factores (egoísta/altruista/biosférico). **Candidata a bloque de perfiles** por longitud y validación | **Máxima** |
-| **Maibach, E., Leiserowitz, A., Roser-Renouf, C. y Mertz, C. K. (2011).** *Global Warming's Six Americas*. Segmentación por análisis de clases latentes | El modelo de segmentación de referencia. Sin adaptación española conocida = hueco | **Alta** |
+| **Maibach, E., Leiserowitz, A., Roser-Renouf, C. y Mertz, C. K. (2011).** *Global Warming's Six Americas*. Segmentación por análisis de clases latentes | El modelo de segmentación de referencia, en su formulación original. **La revisión de 2021 ya tiene nota** (`leiserowitzGlobal2021`); esta es la fuente primaria | **Alta** |
 | **Gonzalo, A. y Revilla, J. C. (2025).** "El inicio de carreras activistas en el nuevo ecologismo juvenil". *REIS*, 190, 111-128. DOI 10.5477/cis/reis.190.111-128 ⚠️ *paginación discrepante entre fuentes* | Cómo se entra al ecologismo juvenil español, desde el actor | **Alta** |
-| **Centro Reina Sofía de Fad Juventud — proyecto JUCLIDES**, sobre ecologismo juvenil español | Composición de clase de FFF (clase media, alto capital cultural) y el estigma de la etiqueta. **FFF Madrid coimparte los talleres**: es literatura sobre el propio campo | **Alta** |
 
 ### Instrumentos y marco teórico
 
@@ -74,6 +72,15 @@ Cuando una se lee: pasa a Zotero, crea su nota en `notes/` y bórrala de aquí.
 | Martínez-Aznar, Calvo Sevillano y Sánchez-León (2022) — **el CAFTÁN**. Estaba descargado en el escritorio. | `martinezaznarAlfabetizacion2022` |
 | Fernández Ramos y Piñeiro (2015) — Metodología OASIS. **Su autor es predoctoral en la Cátedra.** | `fernandezramosOasis2015` |
 | Sánchez, Gil y Calderón-Guerrero (2026) — *Diversity* 18(3), 169. **Publicación propia, primera autora.** | `sanchezBehavioural2026` |
+| Leiserowitz, Roser-Renouf, Marlon y Maibach (2021) — revisión de *Global Warming's Six Americas*, *Current Opinion in Behavioral Sciences* 42, 97-103. | `leiserowitzGlobal2021` |
+| Báez Gómez (2016) — *La conciencia ambiental en España a principios del siglo XXI*, *Papers* 101(3), 363-388. **La referencia que cuestiona el contraste rural/urbano.** | `baezConciencia2016` |
+| Revilla, Gonzalo, Dávila, Zlobina y Belli (2023) — *La emergencia de la nueva generación ecologista juvenil en España desde 2019: el caso de Fridays for Future*. Centro Reina Sofía de Fad Juventud. **Describe a FFF Madrid, con quien coimparto talleres.** | `revillaEmergencia2023` |
 
-Las tres siguen con `read: false` salvo la propia: hay nota estructurada a
-partir de portada y resumen, pero falta lectura completa.
+Todas siguen con `read: false`: hay nota estructurada a partir de portada,
+resumen o fuentes secundarias, pero falta lectura completa.
+
+> ⚠️ **Las tres últimas se añadieron sin poder abrir el texto original** (los
+> dominios están bloqueados desde el entorno del agente). Sus metadatos y, sobre
+> todo, sus **resultados** proceden de fragmentos indexados por buscador.
+> `baezConciencia2016` es la más delicada, porque su hallazgo afecta al diseño:
+> **leer el PDF antes de apoyarse en ella.**
