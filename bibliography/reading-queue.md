@@ -9,14 +9,13 @@ Cuando una se lee: pasa a Zotero, crea su nota en `notes/` y bórrala de aquí.
 
 | Añadido | Referencia | Por qué me interesa | Línea | Prioridad |
 |---|---|---|---|---|
-
+| 2026-09 | ⚠️ **SIN IDENTIFICAR.** Artículo en *Pasaje a la Ciencia*, nº 22, a partir de la p. 21. Revista de divulgación del IES Antonio de Mendoza (Alcalá la Real, Jaén). PDF: https://pasajealaciencia.es/wp-content/uploads/2022/09/Pasaje-22-1-2.pdf#page=21 | Aportada por Janire. **Faltan título y autoría**: el PDF no es accesible desde el entorno del agente. | por asignar | por asignar |
 | 2026-08 | Proyecto **PRAD-ODS** — alfabetización ecosocial en formación inicial del profesorado de Secundaria. Murga-Menoyo y Bautista-Cerro. | Línea insignia del grupo. Mi gap se define por contraste con esto. | C-A | **Alta** |
 | 2026-08 | **Guía PRADO** — sostenibilización del currículo de Secundaria. Cátedra UNESCO EADS. | Modelo de referencia para el producto de C-C. | C-C | **Alta** |
 | 2026-08 | *Voces para una alfabetización ecosocial* (UNED, 2022). ISBN 978-84-362-7420-2. **DOI 10.5944/VAE28060** — acceso abierto en e-Spacio UNED. Dirigido a profesorado de Secundaria y Bachillerato. | Marco conceptual y vocabulario del grupo. Base del glosario. **Y confirma que su mirada ya está en mi etapa educativa.** | Todas | **Alta** |
 | 2026-08 | Bautista-Cerro y Díaz González (2025). *Educación ambiental en tiempos de emergencia planetaria*. | Última publicación de la potencial directora. Lectura obligada antes de escribirle. | Todas | **Alta** |
 | 2026-08 | Martínez-Domínguez y Oronoz (2026). "Educación para el arraigo: identidad, entorno natural y desarrollo sostenible frente al fenómeno de la España vaciada". *Teoría de la Educación. Revista Interuniversitaria*. | Estado de la cuestión del cruce educación + despoblación. | C-B | **Alta** |
 | 2026-08 | Tesis de Cristina Iglesias Barco — abandono escolar, enfoque etnográfico. | Precedente metodológico cualitativo dentro del grupo. | C-B | Media |
-
 | 2026-08 | Obra de **María Novo** sobre complejidad y ecología humana. | Marco fundacional de la EA en España. | Todas | Media |
 | 2026-08 | Obra de **Yayo Herrero** sobre relaciones campo-ciudad y límites físicos. | Puente teórico con la despoblación. Clave si sale C-B. | C-B | Media |
 
