@@ -9,7 +9,6 @@ Cuando una se lee: pasa a Zotero, crea su nota en `notes/` y bórrala de aquí.
 
 | Añadido | Referencia | Por qué me interesa | Línea | Prioridad |
 |---|---|---|---|---|
-| 2026-09 | ⚠️ **SIN IDENTIFICAR.** Artículo en *Pasaje a la Ciencia*, nº 22, a partir de la p. 21. Revista de divulgación del IES Antonio de Mendoza (Alcalá la Real, Jaén). PDF: https://pasajealaciencia.es/wp-content/uploads/2022/09/Pasaje-22-1-2.pdf#page=21 | Aportada por Janire. **Faltan título y autoría**: el PDF no es accesible desde el entorno del agente. | por asignar | por asignar |
 | 2026-08 | Proyecto **PRAD-ODS** — alfabetización ecosocial en formación inicial del profesorado de Secundaria. Murga-Menoyo y Bautista-Cerro. | Línea insignia del grupo. Mi gap se define por contraste con esto. | C-A | **Alta** |
 | 2026-08 | **Guía PRADO** — sostenibilización del currículo de Secundaria. Cátedra UNESCO EADS. | Modelo de referencia para el producto de C-C. | C-C | **Alta** |
 | 2026-08 | *Voces para una alfabetización ecosocial* (UNED, 2022). ISBN 978-84-362-7420-2. **DOI 10.5944/VAE28060** — acceso abierto en e-Spacio UNED. Dirigido a profesorado de Secundaria y Bachillerato. | Marco conceptual y vocabulario del grupo. Base del glosario. **Y confirma que su mirada ya está en mi etapa educativa.** | Todas | **Alta** |
@@ -26,6 +25,8 @@ Cuando una se lee: pasa a Zotero, crea su nota en `notes/` y bórrala de aquí.
 | Martínez-Aznar, Calvo Sevillano y Sánchez-León (2022) — **el CAFTÁN**. Estaba descargado en el escritorio. | `martinezaznarAlfabetizacion2022` |
 | Fernández Ramos y Piñeiro (2015) — Metodología OASIS. **Su autor es predoctoral en la Cátedra.** | `fernandezramosOasis2015` |
 | Sánchez, Gil y Calderón-Guerrero (2026) — *Diversity* 18(3), 169. **Publicación propia, primera autora.** | `sanchezBehavioural2026` |
+| López-Centeno y Chillón — "Importancia de los entornos escolares para el desplazamiento activo al centro educativo", *Pasaje a la Ciencia* nº 22. Divulgación, no indexada. ⚠️ **Año sin verificar.** | `lopezcentenoImportancia2022` |
 
-Las tres siguen con `read: false` salvo la propia: hay nota estructurada a
-partir de portada y resumen, pero falta lectura completa.
+Todas siguen con `read: false` salvo la propia: hay nota estructurada a partir
+de portada y resumen, pero falta lectura completa. La de López-Centeno y Chillón
+no se ha leído en absoluto: su nota solo recoge metadatos y encaje previsto.
