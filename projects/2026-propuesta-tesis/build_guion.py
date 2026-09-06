@@ -2,7 +2,8 @@
 """Genera el guion de reunión en .docx sin dependencias externas."""
 import zipfile, os, html
 
-OUT = "/Users/jansor17/Desktop/PROYECTOS/Doctorado/projects/2026-propuesta-tesis/Guion_reunion_Catedra_UNESCO.docx"
+OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                   "Guion_reunion_Catedra_UNESCO.docx")
 
 def esc(t):
     return html.escape(t, quote=False)
@@ -112,6 +113,14 @@ A(p("**Un prototipo de instrumento ya probado en aula.** La dinámica de "
     "mezcladas. Mide destreza, no memoria.", bullet=True))
 A(p("**Contenido ya alineado con su marco.** La transición justa es clima más "
     "equidad, empleo y territorio.", bullet=True))
+A(p("**Un modelo de cuatro ejes de cosmovisión ecológica, y su encuesta.** "
+    "Proyecto Ecomanía, con Álvaro Francisco Gil: yo desarrollo los ejes y los "
+    "instrumentos, él el software. Ejes antropocéntrico/ecocéntrico, "
+    "tecnológico/suficiencia, individual/colectivo y tecnocrático/de base, "
+    "derivados del NEP, del Environmental Attitudes Inventory y de la teoría "
+    "cultural del riesgo. Separa qué tipo de verde de cuánto verde — que es "
+    "justo el riesgo de un 2×2 donde todo el alumnado salga moderadamente "
+    "verde. Le falta validación factorial sobre datos reales.", bullet=True))
 
 A(p("No prometo", style="Heading2", space_before=180, space_after=60))
 A(p("**Muestra grande.** Diecisiete talleres no dan potencia estadística. El "
@@ -122,6 +131,10 @@ A(p("**Impacto sostenido.** Sesión única de hora y media: permite pre-post en 
 A(p("**Acceso rural confirmado.** Extender los talleres a Segovia y La Rioja es "
     "una vía que quiero abrir con mi organización. A día de hoy no está cerrada.",
     bullet=True))
+A(p("**Datos de Ecomanía.** El producto no está construido: no hay encuesta "
+    "implementada ni respuestas recogidas. Lo que llevo es el modelo y el diseño "
+    "del instrumento. Además, el modelo asume usuarios ya concienciados que se "
+    "autoseleccionan; el alumnado de un instituto no lo está.", bullet=True))
 
 # ---------- 5. Preguntas ----------
 A(p("5. Preguntas que llevo", style="Heading1", space_before=280))
@@ -141,6 +154,12 @@ preguntas = [
      "hueco de literatura es mayor en FP.", 3),
     ("¿La desinformación climática debe ser una dimensión dentro de la "
      "alfabetización ecosocial, o tiene entidad para vertebrar la tesis?", None, 3),
+    ("¿Vería publicable una validación factorial del modelo de cuatro ejes?",
+     "Artículo metodológico separable de la tesis. Le ofrezco algo, no solo "
+     "pido. Hablarlo antes con Álvaro.", 3),
+    ("¿Qué implicaciones éticas tendría pasar un instrumento de valores a "
+     "menores en centros?",
+     "Dato de categoría especial, consentimiento parental, comité de ética.", 3),
     ("¿Qué le falta a esta idea para ser una tesis?", None, 4),
 ]
 
@@ -158,6 +177,8 @@ A(note_lines(8))
 A(p("7. Después de la reunión", style="Heading1", space_before=240))
 A(p("Escribir a Fundación Renovables: extensión de talleres a Segovia y La "
     "Rioja, y uso del material con fines de investigación.", bullet=True))
+A(p("Hablar con Álvaro sobre la validación del modelo de ejes como artículo, y "
+    "sobre coautoría.", bullet=True))
 A(p("Agradecer a Rubén Díaz Sierra.", bullet=True))
 A(p("Actualizar el brief del proyecto en el repositorio.", bullet=True))
 

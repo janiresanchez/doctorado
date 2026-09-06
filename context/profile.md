@@ -97,6 +97,69 @@ puede funcionar como instrumento de investigación. Esto es lo que hace viable
 un diseño cuasi-experimental o de investigación-acción con datos reales, y es
 el argumento más fuerte de su candidatura.
 
+## Segundo activo: Ecomanía (modelo de ejes e instrumento)
+
+Proyecto externo en colaboración con **Álvaro Francisco Gil**. Repositorio
+público: `github.com/alvaro-francisco-gil/ecomania`.
+
+**Reparto de papeles:** Janire desarrolla el **concepto de los ejes ecológicos,
+las encuestas y la parte de producto**; Álvaro, el software. La parte
+académicamente relevante es suya.
+
+**Qué es por fuera:** una app social gamificada de ecología. Respondes una
+encuesta, obtienes un *ecoavatar* que refleja tu perfil ecológico y lo
+desarrollas interactuando.
+
+**Qué es por dentro, y por qué importa para la tesis:** un modelo de cuatro ejes
+de cosmovisión ecológica con fundamentación en la literatura
+(`docs/projects/value-system.md`, con `.bib` de 23 referencias):
+
+| Eje | Polos | Pregunta que captura |
+|---|---|---|
+| 1 | antropocéntrico ↔ ecocéntrico | ¿Qué intereses tienen consideración moral? |
+| 2 | tecnológico ↔ suficiencia | ¿Cómo se concilia prosperidad y planeta? |
+| 3 | individual ↔ colectivo | ¿De dónde viene el cambio? |
+| 4 | tecnocrático ↔ de base | ¿Quién debe resolverlo? |
+
+Los ejes se eligieron triangulando NEP (Dunlap et al. 2000), el Environmental
+Attitudes Inventory (Milfont & Duckitt 2010), De Groot & Steg (2008), las
+tipologías de discurso de Dryzek (2013) y la teoría cultural del riesgo (Douglas
+& Wildavsky 1982; Kahan et al. 2011).
+
+**El argumento central es directamente aplicable a la tesis.** El documento parte
+de que la ideología ambiental es de **baja dimensionalidad**: el EAI colapsa doce
+facetas en dos factores y el NEP se trata como una sola dimensión. Si se miden
+ejes elegidos ingenuamente, todos acaban siendo facetas de "cuánto de verde
+eres" y la población colapsa en una diagonal. De ahí la distinción que organiza
+el modelo: **qué tipo de verde** (orientación, los cuatro ejes) frente a **cuánto
+verde** (intensidad, el gradiente de las Six Americas de Leiserowitz).
+
+Esa distinción es exactamente el riesgo del diseño 2×2 currículo × territorio: si
+el alumnado de un ciclo de renovables y el de uno sin contenido ambiental salen
+ambos "moderadamente verdes", la comparación no mide nada.
+
+**Instrumento:** `onboarding-v1`, diez ítems en tres formatos, versionado e
+inmutable una vez publicado, con recuento de ítems respondidos por eje,
+consentimiento explícito previo y derecho de exportación y borrado.
+
+**La limitación L3 es una oportunidad de publicación.** El propio documento
+declara que la independencia de los ejes está argumentada desde estudios previos
+y **no desde un análisis factorial confirmatorio sobre datos propios**, y que
+hace falta uno. Janire tiene acceso a población educativa.
+
+**Cautelas.**
+
+- ⚠️ **El producto no está construido.** El README lo dice sin rodeos: no hay
+  modelos de datos, ni encuesta implementada, ni economía de juego, ni avatar.
+  **No se pueden prometer datos de Ecomanía.**
+- ⚠️ **El supuesto de partida no se cumple en población escolar.** El modelo
+  asume usuarios autoseleccionados que ya son verdes. El alumnado de un instituto
+  no lo está. No lo invalida —al contrario, en esa muestra sí habrá varianza en
+  "cuánto"— pero hay que decirlo antes de que lo pregunten.
+- ⚠️ **Menores y datos de categoría especial.** El vector de valores se trata
+  como dato sensible (RGPD). Con menores en centros educativos eso implica
+  consentimiento parental y comité de ética.
+
 ## Territorios
 
 | Territorio | Vínculo | Rol previsto |

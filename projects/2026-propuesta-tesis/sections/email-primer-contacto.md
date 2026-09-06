@@ -1,77 +1,85 @@
 # Borrador: primer email a María José Bautista-Cerro
 
-> **Antes de enviar:** verifica que PRAD-ODS lo dirigió ella (o ajústalo), y
-> avisa a Rubén Díaz Sierra de que vas a escribir. Sustituye los `[corchetes]`.
+> ✅ **ENVIADO el 24-08-2026**, con Rubén Díaz Sierra en copia. Este fichero
+> queda como registro de lo que se mandó. A la espera de respuesta.
 
 ---
 
-**Asunto:** Interés en doctorado — alfabetización ecosocial en FP y Secundaria (contacto de Rubén Díaz Sierra)
+**Asunto:** Interés en la Cátedra UNESCO EADS
 
-Estimada profesora Bautista-Cerro:
+**Para:** María José Bautista-Cerro · **CC:** Rubén Díaz Sierra
 
-Me llamo Janire Sánchez y le escribo por sugerencia de Rubén Díaz Sierra, con
-quien coincidí en el curso que impartimos desde Fundación Renovables en
-colaboración con la UNED. Tengo entendido que él le habló de mí.
+Muy buenas María José,
 
-Soy ambientóloga (UAM) con un máster en Gestión del Turismo Sostenible (UPM), y
-actualmente soy responsable de Educación y Sensibilización en Fundación
-Renovables. Mi trabajo consiste en diseñar e impartir talleres en centros
-educativos sobre crisis climática desde la perspectiva de la transición justa y
-sobre desinformación climática, dirigidos a Secundaria, FP y Bachillerato. Este
-curso hemos realizado diecisiete.
+¿Cómo estás?
 
-Sigo con interés la línea de alfabetización ecosocial de la Cátedra. Al leerla
-me llama la atención que el trabajo se haya centrado en la formación inicial del
-profesorado, y me pregunto qué ocurre en el otro extremo: el alumnado de FP y
-Bachillerato, y en particular si el hecho de cursar un ciclo con contenido
-ambiental —energías renovables, eficiencia energética— produce una
-alfabetización ecosocial distinta a la de un ciclo sin ese contenido. Es una
-pregunta que puedo abordar con acceso real al campo, porque los talleres son
-míos: los diseño y los imparto yo.
+Mi nombre es Janire Sánchez y te escribo por sugerencia de Rubén Díaz Sierra, a
+quien pongo en copia y con quien coincidí el pasado junio en el curso que
+impartimos desde Fundación Renovables en colaboración con la UNED. Si no me
+equivoco, ya te adelantó mi interés en la cátedra.
 
-Mi trayectoria investigadora es todavía breve, pero he publicado como primera
-autora en *Diversity* un trabajo sobre el impacto del ecoturismo en primates
-que terminaba, precisamente, recomendando programas de educación ambiental con
-participación comunitaria (doi.org/10.3390/d18030169).
+Por resumir mi perfil académico y profesional, yo estudié Ciencias Ambientales y
+actualmente trabajo como responsable de Educación y Sensibilización en Fundación
+Renovables. Mi trabajo se basa —principalmente— en diseñar e impartir talleres
+en centros educativos sobre cambio climático desde una perspectiva de transición
+justa. Cada taller se basa en una temática concreta y adaptada a cada etapa:
+primaria, secundaria, bachillerato o FP.
+
+Mi interés investigador se encamina por la línea de la alfabetización ecosocial
+y de las relaciones entre territorio rural-urbano, y veo que ambas líneas son
+objeto de trabajo de la cátedra. Me interesa en particular qué ocurre en
+secundaria y FP, además, tengo la ventaja de poder llegar al aula porque los
+talleres los diseño y los imparto yo.
+
+Me preguntaba si contáis con algún proyecto en marcha al que pudiera sumarme o
+si cabe la posibilidad de plantear una investigación propia.
+
+También cuento con algo de experiencia en investigación: derivado de mi TFM
+publiqué como primera autora un trabajo sobre el impacto del turismo en primates
+(doi.org/10.3390/d18030169).
 
 ¿Sería posible mantener una conversación breve, presencial o por videollamada,
-para valorar si esta línea encaja en la Cátedra y qué vías de acceso al programa
-existen a día de hoy? Me adapto por completo a su disponibilidad.
+para valorar si esta línea de investigación encaja en la cátedra y qué vías de
+acceso al programa existen a día de hoy? Me adapto por completo a tu
+disponibilidad.
 
-Muchas gracias por su tiempo.
+Muchas gracias de antemano!!
 
-Un cordial saludo,
+Un abrazo,
 
-Janire Sánchez
-Responsable de Educación y Sensibilización · Fundación Renovables
-[teléfono] · [correo]
+Janire
 
 ---
 
-## Por qué está escrito así
+## Notas
 
-**Rubén en la primera frase y en el asunto.** Es lo que convierte un email frío
-en uno esperado. Ese nombre hace más que cualquier párrafo de presentación.
+**Texto de Janire.** El contenido y el tono de esta versión son suyos. Sobre el
+borrador anterior solo se han corregido errores de lengua: dos puntos en el
+saludo con coma, rayas en el inciso, *aun así* sin tilde, la concordancia de
+"esta línea de investigación encaja".
 
-**El taller antes que el currículum.** Abres por lo que haces, no por lo que has
-estudiado. Para un grupo que investiga educación ambiental, alguien que imparte
-diecisiete talleres al año es un caso de campo andante.
+**Rural-urbano vuelve al email por decisión de Janire.** `research-lines.md`
+recoge, con fecha 22-08-2026, que lo rural pasa a ser contexto y no objeto de
+estudio. Esta versión lo reincorpora como segunda línea de interés. Conviene
+actualizar `research-lines.md` para que ambos ficheros digan lo mismo. A tener
+presente en la reunión: la persona de la cátedra que trabaja relaciones
+campo-ciudad es Yayo Herrero, así que la mención puede derivar la conversación
+hacia ella.
 
-**La pregunta se formula como pregunta, no como propuesta cerrada.** "Me
-pregunto qué ocurre en el otro extremo" invita a conversar. Una propuesta
-cerrada invita a que te la corrijan.
+**La jornada completa no se menciona en el email: se cuenta en la reunión.**
+Decirlo aquí introducía una objeción antes de que la interlocutora hubiera visto
+el interés del tema, y desactivaba la frase que más trabaja de todo el correo
+("los talleres los diseño y los imparto yo") justo después de leerla. No es
+ocultarlo: sale a los cinco minutos de la reunión y allí se puede explicar con
+matices. **Llevar preparada** una respuesta concreta sobre qué apoyo puede dar
+Fundación Renovables — ver el dosier.
 
-**"Los talleres son míos: los diseño y los imparto yo."** Es la frase que más
-trabaja de todo el email. La mayoría de doctorandos dependen de terceros para
-entrar en un centro educativo. Tú no.
+**Se han dejado fuera, a propósito, para contarlos en la reunión:** los
+diecisiete talleres de este curso, el taller de desinformación climática y su
+dinámica de verificación, y el detalle de que el artículo terminaba recomendando
+programas de educación ambiental. Se explican mejor con contexto y en
+conversación que en un primer correo.
 
-**El artículo va al final y sin presumir.** Y con el detalle que lo hace
-relevante aquí: que acababa recomendando educación ambiental. Muestra
-continuidad, no un cambio de tema por capricho.
-
-**Una sola petición: una conversación.** No pides dirección de tesis, ni
-matrícula, ni valoración del tema. Pides veinte minutos.
-
-**No mencionas el doctorado anterior.** Deliberado. En un primer email obliga a
-explicaciones que descolocan el tono. En la reunión saldrá solo en cuanto se
+**No se menciona el doctorado anterior.** Deliberado. En un primer email obliga
+a explicaciones que descolocan el tono. En la reunión saldrá solo en cuanto se
 hable del artículo, y ahí sí conviene contarlo — ver el dosier.

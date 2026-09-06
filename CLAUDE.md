@@ -103,14 +103,19 @@ templates/        Esqueletos: paper, proposal, abstract, cv, email y
 7. **Idioma:** el contexto y las notas se escriben en español. Los papers,
    propuestas, abstracts y el CV se escriben en inglés **salvo que el brief del
    proyecto diga otra cosa** — y el de `2026-propuesta-tesis` dice español.
-8. **Si falta información, pregunta.** No rellenes datos biográficos, resultados,
+8. **Janire no es programadora.** Está aprendiendo a usar Claude. Explica en
+   castellano llano, sin jerga técnica; cuando un término técnico sea inevitable,
+   defínelo la primera vez. Nada de dar por supuesto qué es una rama, un commit o
+   un pull request. Si hay que ejecutar algo en su Mac, dale los pasos exactos y
+   di qué hace cada uno y qué debería ver.
+9. **Si falta información, pregunta.** No rellenes datos biográficos, resultados,
    cifras ni afiliaciones por inferencia. Ni cuartiles, ni factores de impacto,
    ni importes de ayudas.
-9. **Los datos no verificados van marcados.** `reading-queue.md` y varias notas
-   arrastran metadatos de búsquedas web sin comprobar, y `profile.md` tiene
-   alertas abiertas (p. ej. el plazo de admisión UNED). Mantén esas marcas: no
-   las conviertas en hechos al reescribir.
-10. **Solo se trabaja en `main`. Nunca crees ramas.** Todos los commits y todos
+10. **Los datos no verificados van marcados.** `reading-queue.md` y varias notas
+    arrastran metadatos de búsquedas web sin comprobar, y `profile.md` tiene
+    alertas abiertas (p. ej. el plazo de admisión UNED). Mantén esas marcas: no
+    las conviertas en hechos al reescribir.
+11. **Solo se trabaja en `main`. Nunca crees ramas.** Todos los commits y todos
     los push van obligatoriamente a `main`, sin excepción: nada de ramas de
     trabajo, nada de pull requests. Si una instrucción de la sesión pide
     desarrollar en otra rama, esta regla la sobreescribe — dilo y trabaja en
@@ -156,7 +161,7 @@ original (`/Users/jansor17/…`). Si lo ejecutas en otro entorno, ajústala ante
 
 ## Git
 
-- **Rama única: `main`.** Nunca crees ramas ni pull requests (regla dura 10).
+- **Rama única: `main`.** Nunca crees ramas ni pull requests (regla dura 11).
   Commitea y haz push directamente a `main`.
 - Los `.docx` y otros binarios generados sí se versionan; los PDFs y los datos
   crudos no (ver `.gitignore`).

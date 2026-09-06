@@ -27,13 +27,35 @@ centrada en **alfabetización ecosocial**.
 **Por qué me interesa**
 Es la potencial directora de tesis. La propuesta se escribe para ella.
 
-**Estado del contacto:** ☕ **reunión concertada** — un café la semana del 7 al
-13 de septiembre de 2026. Primera conversación presencial.
-⚠️ Falta anotar fecha y hora exactas y confirmar que la interlocutora es ella.
+**Estado del contacto:** **primer email enviado el 24-08-2026**, con Rubén Díaz
+Sierra en copia. Texto en
+`projects/2026-propuesta-tesis/sections/email-primer-contacto.md`.
+→ ☕ **Hay reunión: un café la semana del 7 al 13 de septiembre de 2026.**
+⚠️ Falta anotar fecha y hora exactas y confirmar que la interlocutora del café
+es ella (todo apunta a que el café sale de la respuesta a ese email).
 
 **Siguiente paso:** llevar el café según el guion de
-`projects/2026-propuesta-tesis/notes.md`; preguntar por los plazos de admisión y
-cerrar el envío de un documento de dos páginas en las semanas siguientes.
+`projects/2026-propuesta-tesis/notes.md`, con el dosier
+(`sections/dosier-reunion.md`) como respaldo; preguntar por los plazos de
+admisión y cerrar el envío de un documento de dos páginas en las semanas
+siguientes.
+
+**Pendiente de confirmar en la reunión:** plazos de admisión del programa —
+la preinscripción 2026/2027 podría estar ya cerrada (ver alerta en
+`context/profile.md`).
+
+---
+
+## Álvaro Francisco Gil — colaborador (Ecomanía)
+
+- **Vínculo:** socio en **Ecomanía**, proyecto externo.
+  `github.com/alvaro-francisco-gil/ecomania`.
+- **Reparto:** él lleva el software (Expo, Next.js, Firebase); Janire lleva el
+  concepto de los ejes ecológicos, las encuestas y la parte de producto.
+- **Por qué aparece aquí:** es coautor de facto del modelo de cuatro ejes de
+  cosmovisión ecológica. Si la validación factorial del instrumento acaba siendo
+  un artículo, es coautor. Conviene hablarlo con él **antes** de ofrecérselo a la
+  Cátedra como línea publicable.
 
 ---
 

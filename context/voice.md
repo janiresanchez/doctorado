@@ -115,3 +115,21 @@ motivación, la introducción personal de una propuesta.
 La introducción del paper se escribió con apoyo de LLM pero redactada por ella.
 El resultado conserva su voz. **El criterio es ese:** el modelo puede ayudar a
 estructurar y pulir, nunca a generar párrafos que ella no reescriba.
+
+---
+
+## Convenciones fijas en español
+
+Preferencias explícitas de Janire. Se aplican siempre, aunque la norma admita
+otra cosa.
+
+- **El saludo de una carta o email va con coma, nunca con dos puntos.**
+  *Muy buenas María José,* — no *Muy buenas María José:*
+- **Las etapas educativas van en minúscula:** primaria, secundaria,
+  bachillerato, FP (esta última en siglas).
+- **"la cátedra" en minúscula** cuando se menciona sin el nombre completo.
+  El nombre propio entero sí lleva mayúscula: *Cátedra UNESCO de Educación
+  Ambiental y Desarrollo Sostenible*.
+- **Registro de email personal:** admite exclamación de cierre informal sin
+  apertura (*Muchas gracias de antemano!!*) y conectores sueltos entre comas.
+  No corregirlo hacia un registro más formal sin que ella lo pida.
