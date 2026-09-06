@@ -42,6 +42,7 @@ Idioma: **español** (excepción a la regla general del repositorio).
 
 | Fecha | Hito |
 |---|---|
+| 24 agosto 2026 | Email de primer contacto enviado (Rubén Díaz Sierra en copia) ✅ |
 | semana del 7-13 sept. 2026 | ☕ **Café con la directora.** Primera conversación presencial. |
 | +1-2 semanas tras el café | Envío del documento de dos páginas que se ofrece al cierre de la reunión |
 | ⚠️ por confirmar **en el café** | Plazo de admisión UNED. Otra sesión situó la preinscripción 2026/2027 entre el 4 de mayo y el 4 de junio de 2026 — **ya cerrada, sin verificar**. |
@@ -49,9 +50,11 @@ Idioma: **español** (excepción a la regla general del repositorio).
 
 ## Estado del contacto con la directora
 
-**Hay reunión.** Un café la semana del 7 al 13 de septiembre de 2026.
-⚠️ Falta anotar la fecha y hora exactas, y confirmar que la interlocutora es
-Bautista-Cerro.
+**Primer email enviado el 24-08-2026**, con Rubén Díaz Sierra en copia (texto en
+`sections/email-primer-contacto.md`). → **Hay reunión: un café la semana del 7 al
+13 de septiembre de 2026.**
+⚠️ Falta anotar la fecha y hora exactas, y confirmar que la interlocutora del
+café es Bautista-Cerro.
 
 La vía de entrada fue **Rubén Díaz Sierra** (UNED), que habló de Janire a la
 directora tras coincidir en un curso de Fundación Renovables. *(Resuelto el
@@ -69,8 +72,10 @@ ecosocial en FP y Secundaria, con diseño 2×2 currículo × territorio y bloque
 propio de desinformación climática. C-B está descartada; C-A y C-C sobreviven
 como producto derivado.
 
-El enfoque del café está en `notes.md`; la ficha de metodología en lenguaje
-llano, en `context/metodologia-basica.md`.
+El enfoque del café está en `notes.md`; el dosier largo en
+`sections/dosier-reunion.md` y el guion imprimible en
+`Guion_reunion_Catedra_UNESCO.docx`; la ficha de metodología en lenguaje llano,
+en `context/metodologia-basica.md`.
 
 ## Bloqueos
 

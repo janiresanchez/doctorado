@@ -2,9 +2,14 @@
 
 ## 2026-09-06 — Enfoque del café con la directora
 
-**Situación:** reunión informal (un café) la semana del 7 al 13 de septiembre de
-2026. ⚠️ Confirmar en este fichero la fecha exacta y que la interlocutora es
-María José Bautista-Cerro.
+**Situación:** el email de primer contacto se envió el 24-08-2026 (ver
+`sections/email-primer-contacto.md`) y hay reunión informal —un café— la semana
+del 7 al 13 de septiembre de 2026. ⚠️ Confirmar en este fichero la fecha exacta
+y que la interlocutora es María José Bautista-Cerro.
+
+El dosier largo (`sections/dosier-reunion.md`) y el
+`Guion_reunion_Catedra_UNESCO.docx` siguen siendo el material de respaldo; estas
+notas son la versión de café.
 
 **Regla de fondo:** no es la defensa de una propuesta, es la comprobación de un
 encaje en las dos direcciones. Sale bien si al terminar se sabe si hay
