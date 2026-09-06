@@ -16,7 +16,6 @@ Cuando una se lee: pasa a Zotero, crea su nota en `notes/` y bórrala de aquí.
 | 2026-08 | Martínez-Domínguez y Oronoz (2026). "Educación para el arraigo: identidad, entorno natural y desarrollo sostenible frente al fenómeno de la España vaciada". *Teoría de la Educación. Revista Interuniversitaria*. | Estado de la cuestión del cruce educación + despoblación. | C-B | **Alta** |
 | 2026-08 | **Díaz, E.** — *La Escuela Vaciada: estudio sociomaterial del cierre y apertura de escuelas rurales en España*. Tesis en curso, UAM. https://escuelavaciada.netlify.app/page/about/ | Tesis **en curso** sobre escuela rural y despoblación, con campo en **La Rioja**. Vigilancia competitiva y contacto potencial. ⚠️ Metadatos sin verificar: no pude abrir la web. | C-B | **Alta** |
 | 2026-08 | Tesis de Cristina Iglesias Barco — abandono escolar, enfoque etnográfico. | Precedente metodológico cualitativo dentro del grupo. | C-B | Media |
-
 | 2026-08 | Obra de **María Novo** sobre complejidad y ecología humana. | Marco fundacional de la EA en España. | Todas | Media |
 | 2026-08 | Obra de **Yayo Herrero** sobre relaciones campo-ciudad y límites físicos. | Puente teórico con la despoblación. Clave si sale C-B. | C-B | Media |
 
@@ -78,11 +77,14 @@ Cuando una se lee: pasa a Zotero, crea su nota en `notes/` y bórrala de aquí.
 | Leiserowitz, Roser-Renouf, Marlon y Maibach (2021) — revisión de *Global Warming's Six Americas*, *Current Opinion in Behavioral Sciences* 42, 97-103. | `leiserowitzGlobal2021` |
 | Báez Gómez (2016) — *La conciencia ambiental en España a principios del siglo XXI*, *Papers* 101(3), 363-388. **La referencia que cuestiona el contraste rural/urbano.** | `baezConciencia2016` |
 | Revilla, Gonzalo, Dávila, Zlobina y Belli (2023) — *La emergencia de la nueva generación ecologista juvenil en España desde 2019: el caso de Fridays for Future*. Centro Reina Sofía de Fad Juventud. **Describe a FFF Madrid, con quien coimparto talleres.** | `revillaEmergencia2023` |
+| López-Centeno y Chillón — "Importancia de los entornos escolares para el desplazamiento activo al centro educativo", *Pasaje a la Ciencia* nº 22. Divulgación, no indexada. ⚠️ **Año sin verificar.** | `lopezcentenoImportancia2022` |
 
 Todas siguen con `read: false`: hay nota estructurada a partir de portada,
-resumen o fuentes secundarias, pero falta lectura completa.
+resumen o fuentes secundarias, pero falta lectura completa. La de López-Centeno
+y Chillón no se ha leído en absoluto: su nota solo recoge metadatos y encaje
+previsto.
 
-> ⚠️ **Las tres últimas se añadieron sin poder abrir el texto original** (los
+> ⚠️ **`leiserowitzGlobal2021`, `baezConciencia2016` y `revillaEmergencia2023` se añadieron sin poder abrir el texto original** (los
 > dominios están bloqueados desde el entorno del agente). Sus metadatos y, sobre
 > todo, sus **resultados** proceden de fragmentos indexados por buscador.
 > `baezConciencia2016` es la más delicada, porque su hallazgo afecta al diseño:
