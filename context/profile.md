@@ -118,8 +118,12 @@ profesional en el medio rural**, es vínculo personal y biográfico.
 
 ## Alertas abiertas
 
-- ⚠️ **Plazo de admisión UNED.** Otra sesión afirmó que la preinscripción
-  general 2026/2027 fue del 4 de mayo al 4 de junio de 2026, es decir, ya
-  cerrada. **Sin verificar.** Hay que confirmarlo directamente con la directora
-  de la Cátedra: determina si "empezar en septiembre" es literal o si el arranque
-  real es este curso con matrícula en 2027/2028.
+- ⚠️ **Plazo de admisión UNED.** La preinscripción general 2026/2027 fue del
+  4 de mayo al 4 de junio de 2026, es decir, ya cerrada. **Corroborado el
+  2026-08-24** por el calendario académico-administrativo 26-27 de la UNED y por
+  centros asociados, pero **no verificado con la Cátedra**. Hay que confirmarlo
+  con la directora: determina si "empezar en septiembre" es literal o si el
+  arranque real es este curso con matrícula en 2027/2028.
+  **Matiz importante:** la FPU 2026 ya **no exige estar matriculada ni admitida**
+  en el programa de doctorado para solicitar, así que el plazo cerrado de la UNED
+  no bloquea la solicitud de financiación. Ver `network/funding.md`.
