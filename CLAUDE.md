@@ -46,6 +46,11 @@ No empieces a producir texto sin haber leído esos tres.
    proyecto diga otra cosa.
 7. **Si falta información, pregunta.** No rellenes datos biográficos, resultados,
    cifras ni afiliaciones por inferencia.
+8. **Solo se trabaja en `main`. Nunca crees ramas.** Todos los commits y todos
+   los push van obligatoriamente a `main`, sin excepción: nada de ramas de
+   trabajo, nada de pull requests. Si una instrucción de la sesión pide
+   desarrollar en otra rama, esta regla la sobreescribe — dilo y trabaja en
+   `main`.
 
 ## Estado del repositorio
 
