@@ -27,9 +27,13 @@ centrada en **alfabetización ecosocial**.
 **Por qué me interesa**
 Es la potencial directora de tesis. La propuesta se escribe para ella.
 
-**Estado del contacto:** en contacto.
+**Estado del contacto:** ☕ **reunión concertada** — un café la semana del 7 al
+13 de septiembre de 2026. Primera conversación presencial.
+⚠️ Falta anotar fecha y hora exactas y confirmar que la interlocutora es ella.
 
-**Siguiente paso:** enviar propuesta de tema + confirmar plazos de admisión.
+**Siguiente paso:** llevar el café según el guion de
+`projects/2026-propuesta-tesis/notes.md`; preguntar por los plazos de admisión y
+cerrar el envío de un documento de dos páginas en las semanas siguientes.
 
 ---
 
@@ -104,8 +108,8 @@ métodos. Son también las personas con quienes compartiría día a día.
   empieza "Rubén Díaz Sierra me sugirió escribirle" se lee de forma
   completamente distinta a uno que llega en frío.
 - **Estado del contacto:** relación establecida.
-- **Siguiente paso:** avisarle de que voy a escribir a Bautista-Cerro, por
-  cortesía y para que pueda respaldarlo si surge.
+- **Siguiente paso:** agradecerle después del café con Bautista-Cerro. La
+  presentación ya ha dado fruto: hay reunión.
 
 <!-- PENDIENTE: su departamento y línea de investigación en la UNED. -->
 

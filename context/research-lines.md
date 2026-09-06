@@ -232,6 +232,41 @@ Adaptarlo exige:
 medio es menor (edad similar); hacia un CRA de Primaria deja de ser adaptación
 y pasa a ser rediseño completo del instrumento.
 
+## Posición metodológica (2026-09-06)
+
+Ficha completa en lenguaje llano: `context/metodologia-basica.md`.
+
+**El diseño es ex post facto, no cuasi-experimental.** Comparar FP con currículo
+ambiental frente a FP sin él es comparar grupos que ya diferían: el currículo no
+se manipula, se encuentra. Consecuencia obligada en la redacción y en la
+reunión: se habla de **diferencias asociadas a**, nunca de *efecto de*. El
+**sesgo de autoselección** (quien elige renovables puede llegar ya con más
+conciencia ambiental) se trata recogiéndolo como variable —motivo de elección
+del ciclo, hábitos familiares— y declarándolo.
+
+**El pre-post del taller mide el taller, no el currículo.** Son dos preguntas
+distintas y conviene no confundirlas: el 2×2 mide estado, el pre-post mide
+movimiento en la sesión. Sin grupo de comparación, el pre-post no separa el
+efecto del taller del efecto de haber tratado el tema durante hora y media.
+
+**Secuencia: mixto secuencial explicativo.** Primero cuestionario, después
+entrevistas o grupos de discusión para explicar lo que salga. Es el nombre
+técnico de la combinación que ya se identificó como sello diferencial.
+
+**Continuidad con el trabajo previo.** `sanchezBehavioural2026` fue observación
+sistemática con protocolo, comparación entre dos condiciones preexistentes y
+modelos lineales generalizados: **la misma lógica ex post facto** que se propone
+ahora. Es un argumento de candidatura, no solo un mérito de CV.
+
+**Descartada: investigación-acción.** Encaja con el perfil profesional pero
+exige presencia continuada en los centros, incompatible con jornada completa.
+
+**Primera fase del campo: validación del instrumento** —juicio de expertos más
+prueba piloto—, que es exactamente lo que cabe en 17 talleres y es publicable
+por sí sola.
+
+---
+
 ## Fuera de alcance
 
 <!-- Por decidir. Candidatos: educación ambiental urbana como objeto central;
@@ -241,10 +276,10 @@ y pasa a ser rediseño completo del instrumento.
 ## Decisiones pendientes
 
 1. **Elegir dirección:** C-A, C-B, C-C o combinación.
-2. **Etapa educativa.** Sin resolver, y es el bloqueo principal. Sus talleres
-   llegan hoy a Primaria, Secundaria, FP y Bachillerato — puede elegir, pero no
-   puede abarcarlas todas. Un CRA es Infantil-Primaria; el CAFTÁN es de 4º ESO;
-   la FP es su terreno profesional.
+2. ~~**Etapa educativa.**~~ **Resuelto (2026-08):** Secundaria, FP y
+   Bachillerato, que es donde están los talleres con recorrido. Primaria y el
+   CRA quedan fuera del diseño. Mantiene baja la adaptación del CAFTÁN, pensado
+   para 4º de ESO.
 3. **Territorio del campo:** Segovia, La Rioja o ambos, y con qué caso urbano
    de contraste.
 4. ~~¿El arraigo es objeto de estudio o motivación personal?~~ **Resuelto:
@@ -253,7 +288,11 @@ y pasa a ser rediseño completo del instrumento.
    dentro de la alfabetización ecosocial, o el eje de la tesis? Es la conversación
    que hay que tener con la directora.
 6. **¿Pre-post en sesión única o medición diferida?** Determina si se puede
-   hablar de impacto o solo de estado.
+   hablar de impacto o solo de estado. Volver al centro meses después exigiría
+   acuerdo con el centro y con Fundación Renovables.
+7. **¿Cuántos cursos acumula el campo?** Con 17 talleres, un curso da pilotaje;
+   la muestra con potencia exige dos o tres cursos, o difundir el cuestionario
+   más allá de los propios talleres.
 
 ## Restricción de escala (dato duro)
 
