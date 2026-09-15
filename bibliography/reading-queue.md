@@ -26,7 +26,14 @@ Cuando una se lee: pasa a Zotero, crea su nota en `notes/` y bórrala de aquí.
 | Fernández Ramos y Piñeiro (2015) — Metodología OASIS. **Su autor es predoctoral en la Cátedra.** | `fernandezramosOasis2015` |
 | Sánchez, Gil y Calderón-Guerrero (2026) — *Diversity* 18(3), 169. **Publicación propia, primera autora.** | `sanchezBehavioural2026` |
 | López-Centeno y Chillón — "Importancia de los entornos escolares para el desplazamiento activo al centro educativo", *Pasaje a la Ciencia* nº 22. Divulgación, no indexada. ⚠️ **Año sin verificar.** | `lopezcentenoImportancia2022` |
+| Serantes Pazos (2015) — análisis de 72 libros de texto de la ESO. Proyecto RESCLIMA. | `serantespazosComo2015` |
+| Meira-Cartea y Arto-Blanco (2014) — representaciones del CC en universitarios, n=284. RESCLIMA. **Lectura prioritaria.** | `meiracarteaRepresentaciones2014` |
+| Observatorio de Transición Justa (2025) — informe sobre jóvenes 18-30, n=653. No académico. | `observatorioJovenes2025` |
 
-Todas siguen con `read: false` salvo la propia: hay nota estructurada a partir
-de portada y resumen, pero falta lectura completa. La de López-Centeno y Chillón
-no se ha leído en absoluto: su nota solo recoge metadatos y encaje previsto.
+Estado de lectura desigual:
+
+- **Leídas sobre el PDF** (`read: true`): `serantespazosComo2015`,
+  `meiracarteaRepresentaciones2014` y `observatorioJovenes2025`. Sus notas
+  recogen métodos, muestra y resultados con cifras.
+- **Sin lectura completa** (`read: false`): el resto. `lopezcentenoImportancia2022`
+  no se ha leído en absoluto — su nota solo tiene metadatos y encaje previsto.

@@ -123,12 +123,18 @@ Si necesitas uno de ellos y sigue en plantilla, **dilo antes de continuar** en
 lugar de improvisar el contenido.
 
 Aviso aparte: **`bibliography/library.bib` está vacío** (solo cabecera), mientras
-que `bibliography/notes/` ya tiene seis notas. Los citekeys que se usan hoy
-(`martinezaznarAlfabetizacion2022`, `sanchezBehavioural2026`,
+que `bibliography/notes/` ya tiene diez notas. **Ningún** citekey en uso existe
+en el `.bib`: `martinezaznarAlfabetizacion2022`, `sanchezBehavioural2026`,
 `fernandezramosOasis2015`, `cookDeconstructing2018`, `cookNeutralizing2017`,
-`lewandowskyClimate2021`) existen en las notas pero **no** en el `.bib`. Puedes
-citarlos apoyándote en la nota, pero si vas a compilar bibliografía advierte de
-que falta la exportación de Zotero.
+`lewandowskyClimate2021`, `serantespazosComo2015`,
+`meiracarteaRepresentaciones2014`, `observatorioJovenes2025` y
+`lopezcentenoImportancia2022`.
+
+Puedes citarlos apoyándote en la nota, pero si vas a compilar bibliografía
+advierte de que falta la exportación de Zotero. **Los citekeys son provisionales**
+hasta que Zotero los genere: los de autor corporativo (`observatorioJovenes2025`)
+y apellido compuesto (`serantespazosComo2015`, `meiracarteaRepresentaciones2014`)
+son los más propensos a cambiar.
 
 ## Convenciones de escritura
 
