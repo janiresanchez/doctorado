@@ -123,12 +123,12 @@ Si necesitas uno de ellos y sigue en plantilla, **dilo antes de continuar** en
 lugar de improvisar el contenido.
 
 Aviso aparte: **`bibliography/library.bib` está vacío** (solo cabecera), mientras
-que `bibliography/notes/` ya tiene diez notas. **Ningún** citekey en uso existe
+que `bibliography/notes/` ya tiene once notas. **Ningún** citekey en uso existe
 en el `.bib`: `martinezaznarAlfabetizacion2022`, `sanchezBehavioural2026`,
 `fernandezramosOasis2015`, `cookDeconstructing2018`, `cookNeutralizing2017`,
 `lewandowskyClimate2021`, `serantespazosComo2015`,
-`meiracarteaRepresentaciones2014`, `observatorioJovenes2025` y
-`lopezcentenoImportancia2022`.
+`meiracarteaRepresentaciones2014`, `observatorioJovenes2025`,
+`artoblancoCambio2009` y `lopezcentenoImportancia2022`.
 
 Puedes citarlos apoyándote en la nota, pero si vas a compilar bibliografía
 advierte de que falta la exportación de Zotero. **Los citekeys son provisionales**
