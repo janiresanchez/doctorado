@@ -29,11 +29,13 @@ Cuando una se lee: pasa a Zotero, crea su nota en `notes/` y bórrala de aquí.
 | Serantes Pazos (2015) — análisis de 72 libros de texto de la ESO. Proyecto RESCLIMA. | `serantespazosComo2015` |
 | Meira-Cartea y Arto-Blanco (2014) — representaciones del CC en universitarios, n=284. RESCLIMA. **Lectura prioritaria.** | `meiracarteaRepresentaciones2014` |
 | Observatorio de Transición Justa (2025) — informe sobre jóvenes 18-30, n=653. No académico. | `observatorioJovenes2025` |
+| Arto Blanco (2009) — narraciones del CC en alumnado de ESO mediante dibujo (protocolo "Gurb"). Grupo SEPA-USC. | `artoblancoCambio2009` |
 
 Estado de lectura desigual:
 
 - **Leídas sobre el PDF** (`read: true`): `serantespazosComo2015`,
-  `meiracarteaRepresentaciones2014` y `observatorioJovenes2025`. Sus notas
-  recogen métodos, muestra y resultados con cifras.
+  `meiracarteaRepresentaciones2014`, `observatorioJovenes2025` y
+  `artoblancoCambio2009`. Sus notas recogen métodos, muestra y resultados con
+  cifras.
 - **Sin lectura completa** (`read: false`): el resto. `lopezcentenoImportancia2022`
   no se ha leído en absoluto — su nota solo tiene metadatos y encaje previsto.
